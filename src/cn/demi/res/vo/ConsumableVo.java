@@ -1,0 +1,226 @@
+package cn.demi.res.vo;
+
+import cn.core.framework.common.vo.Vo;
+
+/** 
+ * <strong>Description :耗材管理 </strong> <br>
+ * @version <strong> v 1.0.0 </strong> <br>
+ */
+public class ConsumableVo extends Vo<ConsumableVo> {
+
+	private String no;// 编号
+	private String name;// 耗材中文名称
+	private Double safeAmount;// 警戒数量
+	private Double amount;// 实际数量
+	private String unit; // 单位
+	private String model;// 型号
+	private String type;// 类型
+	private String supplier;// 供应商
+	private String supplierId;// 供应商
+	private String mfg;// 生产日期
+	private String exp;// 效期
+	private String remark;// 备注
+	private String state;// 状态
+	private String price;
+	private String flag;// 是否显示日志信息标志
+	private String isSafe;// 是否超出警戒线
+	private String leadingPerson;// 领用人
+	/***
+	 * 仪器保管人	
+	 */
+	private String keeper;
+	private String keepId;
+	/***
+	 * 仪器保管科室
+	 */
+	private String deptId;
+	private String deptName;
+	/***
+	 * 部门信息
+	 */
+	private String orgId;
+	private String orgName;
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
+	}
+
+	public String getFlag() {
+		return flag;
+	}
+
+	public void setFlag(String flag) {
+		this.flag = flag;
+	}
+
+	public String getIsSafe() {
+		return isSafe;
+	}
+
+	public void setIsSafe(String isSafe) {
+		this.isSafe = isSafe;
+	}
+
+	public String getNo() {
+		return no;
+	}
+
+	public void setNo(String no) {
+		this.no = no;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public Double getSafeAmount() {
+		return safeAmount;
+	}
+
+	public void setSafeAmount(Double safeAmount) {
+		this.safeAmount = safeAmount;
+	}
+
+	public Double getAmount() {
+		return amount;
+	}
+
+	public void setAmount(Double amount) {
+		this.amount = amount;
+	}
+
+	public String getUnit() {
+		return unit;
+	}
+
+	public void setUnit(String unit) {
+		this.unit = unit;
+	}
+
+	public String getModel() {
+		return model;
+	}
+
+	public void setModel(String model) {
+		this.model = model;
+	}
+
+	public String getSupplier() {
+		return supplier;
+	}
+
+	public void setSupplier(String supplier) {
+		this.supplier = supplier;
+	}
+
+	public String getMfg() {
+		return mfg;
+	}
+
+	public void setMfg(String mfg) {
+		this.mfg = mfg;
+	}
+
+	public String getExp() {
+		return exp;
+	}
+
+	public void setExp(String exp) {
+		this.exp = exp;
+	}
+
+	public String getRemark() {
+		return remark;
+	}
+
+	public void setRemark(String remark) {
+		this.remark = remark;
+	}
+
+	public String getState() {
+		return state;
+	}
+
+	public void setState(String state) {
+		this.state = state;
+	}
+
+	public String getPrice() {
+		return price;
+	}
+
+	public void setPrice(String price) {
+		this.price = price;
+	}
+
+	public String getLeadingPerson() {
+		return leadingPerson;
+	}
+
+	public void setLeadingPerson(String leadingPerson) {
+		this.leadingPerson = leadingPerson;
+	}
+
+	public String getKeeper() {
+		return keeper;
+	}
+
+	public void setKeeper(String keeper) {
+		this.keeper = keeper;
+	}
+
+	public String getKeepId() {
+		return keepId;
+	}
+
+	public void setKeepId(String keepId) {
+		this.keepId = keepId;
+	}
+
+	public String getDeptId() {
+		return deptId;
+	}
+
+	public void setDeptId(String deptId) {
+		this.deptId = deptId;
+	}
+
+	public String getDeptName() {
+		return deptName;
+	}
+
+	public void setDeptName(String deptName) {
+		this.deptName = deptName;
+	}
+
+	public String getOrgId() {
+		return orgId;
+	}
+
+	public void setOrgId(String orgId) {
+		this.orgId = orgId;
+	}
+
+	public String getOrgName() {
+		return orgName;
+	}
+
+	public void setOrgName(String orgName) {
+		this.orgName = orgName;
+	}
+
+	public String getSupplierId() {
+		return supplierId;
+	}
+
+	public void setSupplierId(String supplierId) {
+		this.supplierId = supplierId;
+	}
+}

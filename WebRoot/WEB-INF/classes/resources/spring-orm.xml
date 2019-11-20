@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd   
+       http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.1.xsd   
+       http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.1.xsd   
+       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.1.xsd 
+       http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.1.xsd 
+      ">
+	<!-- 事务通知 -->
+	<tx:advice id="txAdvice" transaction-manager="transactionManager">
+		<tx:attributes>
+			<tx:method name="get*" read-only="true" rollback-for="Exception"/>
+			<tx:method name="list*" read-only="true" rollback-for="Exception"/>
+			<tx:method name="find*" read-only="true" rollback-for="Exception"/>
+			<tx:method name="save*" read-only="false" rollback-for="Exception"/>
+			<tx:method name="add*" read-only="false" rollback-for="Exception"/>
+			<tx:method name="update*" read-only="false" rollback-for="Exception"/>
+			<tx:method name="alter*" read-only="false" rollback-for="Exception"/>
+			<tx:method name="delete*" read-only="false" rollback-for="Exception"/>
+			<tx:method name="saveOrUpdate*" read-only="false" rollback-for="Exception"/>
+			<tx:method name="*" propagation="REQUIRED" rollback-for="Exception" />
+		</tx:attributes>
+	</tx:advice>
+	
+	<!-- aop代理设置 -->
+	<aop:config proxy-target-class="true">
+		<aop:pointcut id="txPointcut" expression="(execution(* cn.demi..*Service.*(..))
+			||execution(* cn.core.framework.common.service.IBaseService.*(..)))" />
+		<aop:advisor advice-ref="txAdvice" pointcut-ref="txPointcut" />
+	</aop:config>
+	
+	<!-- 配置数据源 -->
+	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+		<property name="driverClass">
+			<value>${datasource.driverClassName}</value>
+		</property>
+		<property name="jdbcUrl">
+			<value>${datasource.url}</value>
+		</property>
+		<property name="user">
+			<value>${datasource.username}</value>
+		</property>
+		<property name="password">
+			<value>${datasource.password}</value>
+		</property>
+		<property name="acquireIncrement">
+			<value>${c3p0.acquireIncrement}</value>
+		</property>
+		<property name="initialPoolSize">
+			<value>${c3p0.initialPoolSize}</value>
+		</property>
+		<property name="minPoolSize">
+			<value>${c3p0.minPoolSize}</value>
+		</property>
+		<property name="maxPoolSize">
+			<value>${c3p0.maxPoolSize}</value>
+		</property>
+		<property name="maxIdleTime">
+			<value>${c3p0.maxIdleTime}</value>
+		</property>
+		<property name="idleConnectionTestPeriod">
+			<value>${c3p0.idleConnectionTestPeriod}</value>
+		</property>
+		<property name="maxStatements">
+			<value>${c3p0.maxStatements}</value>
+		</property>
+		<property name="numHelperThreads">
+			<value>${c3p0.numHelperThreads}</value>
+		</property>
+		<property name="testConnectionOnCheckin" value="false"/> 
+		<property name="testConnectionOnCheckout" value="true"/> 
+		<property name="preferredTestQuery" value="SELECT 1"/>
+	</bean>
+	<!-- 
+	<bean id="dataSourcebzk" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+		<property name="driverClass">
+			<value>${bzk.datasource.driverClassName}</value>
+		</property>
+		<property name="jdbcUrl">
+			<value>${bzk.datasource.url}</value>
+		</property>
+		<property name="user">
+			<value>${bzk.datasource.username}</value>
+		</property>
+		<property name="password">
+			<value>${bzk.datasource.password}</value>
+		</property>
+		<property name="acquireIncrement">
+			<value>${bzk.c3p0.acquireIncrement}</value>
+		</property>
+		<property name="initialPoolSize">
+			<value>${bzk.c3p0.initialPoolSize}</value>
+		</property>
+		<property name="minPoolSize">
+			<value>${bzk.c3p0.minPoolSize}</value>
+		</property>
+		<property name="maxPoolSize">
+			<value>${bzk.c3p0.maxPoolSize}</value>
+		</property>
+		<property name="maxIdleTime">
+			<value>${bzk.c3p0.maxIdleTime}</value>
+		</property>
+		<property name="idleConnectionTestPeriod">
+			<value>${bzk.c3p0.idleConnectionTestPeriod}</value>
+		</property>
+		<property name="maxStatements">
+			<value>${bzk.c3p0.maxStatements}</value>
+		</property>
+		<property name="numHelperThreads">
+			<value>${bzk.c3p0.numHelperThreads}</value>
+		</property>
+		<property name="testConnectionOnCheckin" value="false"/> 
+		<property name="testConnectionOnCheckout" value="true"/> 
+		<property name="preferredTestQuery" value="SELECT 1"/>
+	</bean>
+	 -->
+	<!-- 配置事务管理器 -->
+	<bean id="transactionManager"  
+        class="org.springframework.orm.jpa.JpaTransactionManager">  
+        <property name="entityManagerFactory" ref="entityManagerFactory" />  
+    </bean>  
+    <!-- 配置Hibernate -->
+    <bean id="hibernateJpaVendorAdapter" class="org.hibernate.ejb.HibernatePersistence"/>
+    <bean id="entityManagerFactory"  
+        class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">  
+       <property name="dataSource" ref="dataSource"/>
+		<property name="persistenceProvider" ref="hibernateJpaVendorAdapter"/>   
+		<property name="jpaProperties">
+			<props>
+				<prop key="hibernate.dialect">${hibernate.dialect}</prop>
+				<prop key="hibernate.max_fetch_depth">${hibernate.max_fetch_depth}</prop>
+				<prop key="hibernate.hbm2ddl.auto">${hibernate.hbm2ddl_auto}</prop>
+				<prop key="hibernate.show_sql">${hibernate.show_sql}</prop>
+				<prop key="hibernate.format_sql">${hibernate.format_sql}</prop>
+				<prop key="hibernate.ejb.naming_strategy">${hibernate.ejb.naming_strategy}</prop>
+				<prop key="hibernate.jdbc.fetch_size">${hibernate.jdbc.fetch_size}</prop>
+				<prop key="hibernate.jdcb.batch_size">${hibernate.jdcb.batch_size}</prop>
+				<!-- 配置二级缓存 -->
+				<prop key="hibernate.cache.region.factory_class">${hibernate.cache.region.factory_class}</prop>  
+                <prop key="hibernate.cache.provider_configuration_file_resource_path">${hibernate.cache.provider_configuration_file_resource_path}</prop>
+                <prop key="hibernate.generate_statistics">${hibernate.generate_statistics}</prop> 
+                <prop key="hibernate.cache.use_second_level_cache">${hibernate.cache.use_second_level_cache}</prop> 
+                <prop key="hibernate.cache.use_query_cache">${hibernate.cache.use_query_cache}</prop>
+				<prop key="javax.persistence.sharedCache.mode">ENABLE_SELECTIVE</prop>  
+			</props>    
+		</property>
+		<property name="packagesToScan" value="cn.**.po"/>  
+		<property name="loadTimeWeaver">
+			<bean class="org.springframework.instrument.classloading.InstrumentationLoadTimeWeaver"/>
+		</property>
+		
+	</bean> 
+  	<!-- 配置mybatis -->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+   	 	<property name="dataSource" ref="dataSource"/>
+    	<property name="configLocation" value="classpath:resources/mybatis-config.xml"/>
+    </bean> 
+    <bean id="sqlSession" class="org.mybatis.spring.SqlSessionTemplate">
+        <constructor-arg index="0" ref="sqlSessionFactory" />
+    </bean>
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="cn.**.mapper" />
+        <property name="sqlSessionTemplateBeanName" value="sqlSession" />
+    </bean>
+</beans>

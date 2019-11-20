@@ -1,0 +1,103 @@
+Êìç‰ΩúÊó∂Èó¥,ip,Êìç‰Ωú‰∫∫,Êìç‰ΩúÂÜÖÂÆπ,ÂèÇÊï∞,
+2019-07-06 09:09:27,0:0:0:0:0:0:0:1, ,ÊâìÂºÄÁ≥ªÁªü  , 
+2019-07-06 09:09:28,0:0:0:0:0:0:0:1, ,¥Úø™œµÕ≥  , 
+2019-07-06 09:09:37,0:0:0:0:0:0:0:1,suadmin,µ«¬ºœµÕ≥  , 
+2019-07-06 09:09:37,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,
+2019-07-06 09:09:37,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,
+2019-07-06 09:09:37,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,
+2019-07-06 09:09:39,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal,
+2019-07-06 09:09:39,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562375379363
+2019-07-06 09:09:40,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-06 09:09:40,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxGetList,
+2019-07-06 09:09:41,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=4028818e582395db0158239c55fc0000
+2019-07-06 09:09:41,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=4028818e582395db0158239c55fc0000
+2019-07-06 09:09:41,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=4028818e582395db0158239c55fc0000
+2019-07-06 09:09:41,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal5,
+2019-07-06 09:09:42,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562375381948
+2019-07-06 09:09:42,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-06 09:09:42,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-06 09:10:09,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-06 09:10:10,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=false&nd=1562375410484&rows=20&page=1&sidx=sort&sord=asc
+2019-07-06 09:11:28,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage4Query,
+2019-07-06 09:11:28,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData4Query,_search=false&nd=1562375488407&rows=20&page=1&sidx=sort&sord=asc
+2019-07-06 09:11:59,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=4028807a5b569450015b5699f7a40000
+2019-07-06 09:11:59,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=4028807a5b569450015b5699f7a40000
+2019-07-06 09:11:59,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=4028807a5b569450015b5699f7a40000
+2019-07-06 09:12:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal4,
+2019-07-06 09:12:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562375520163
+2019-07-06 09:13:11,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-06 09:13:11,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-06 09:13:11,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-06 09:13:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal3,
+2019-07-06 09:13:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562375592229
+2019-07-06 09:13:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-06 09:13:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-06 09:13:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-06 09:13:15,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562375595210&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-06 09:13:17,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-06 09:13:17,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562375597800&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-06 09:15:07,0:0:0:0:0:0:0:1,π‹¿Ì‘±,logout,
+2019-07-06 09:15:13,0:0:0:0:0:0:0:1,test1,µ«¬ºœµÕ≥  , 
+2019-07-06 09:15:14,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,
+2019-07-06 09:15:14,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,
+2019-07-06 09:15:14,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,
+2019-07-06 09:15:15,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal,
+2019-07-06 09:15:15,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562375715059
+2019-07-06 09:15:15,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listDate,selectdate=2019-07
+2019-07-06 09:15:15,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajaxGetList,
+2019-07-06 09:15:16,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-06 09:15:16,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562375716978&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-06 09:15:18,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-06 09:15:24,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,addPoint,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-06 09:15:24,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-06 09:16:00,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-06 09:16:00,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-06 09:16:00,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-06 09:16:01,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal3,
+2019-07-06 09:16:01,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562375761380
+2019-07-06 09:16:01,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,chartPie,
+2019-07-06 09:16:01,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,chartNum,
+2019-07-06 09:16:03,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-06 09:16:03,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562375763377&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-06 09:16:05,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,sampType=ª∑æ≥
+2019-07-06 09:16:06,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajax4Json,
+2019-07-06 09:16:06,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajax4FullJson,
+2019-07-06 09:16:06,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajaxCodeContent,code=cus-sshy
+2019-07-06 09:16:13,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,act,ids=&name=ª∑æ≥
+2019-07-06 09:16:13,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,treeData4NoCheck,name=ª∑æ≥
+2019-07-06 09:16:17,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listData,ids=2c90a6ee681677fa0168170395f20048 2c90a6ee681677fa01681703f45b004b 2c90a6ee681677fa016817041ee9004d 2c90a6ee681677fa0168170482260050
+2019-07-06 09:16:21,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listData,ids=2c90a6ee681677fa0168170395f20048 2c90a6ee681677fa01681703f45b004b 2c90a6ee681677fa016817041ee9004d 2c90a6ee681677fa0168170482260050
+2019-07-06 09:16:24,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,act,ids=&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥
+2019-07-06 09:16:24,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData4Im,isNow=&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥&_search=true&nd=1562375784991&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-06 09:16:25,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=
+2019-07-06 09:16:25,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=2c90a6ee66624e0b016667635fd302c1
+2019-07-06 09:16:26,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=2c90a6ee681677fa01684f17bf4e0185
+2019-07-06 09:16:27,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=2c90a6ee66624e0b0166675369820210
+2019-07-06 09:16:30,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,add4Data,isCommit=1&jj= «&date=2019-07-06 09:16:05&tpList[0].itemIds=2c90a6ee66624e0b016667635fd302c1 2c90a6ee681677fa01684f17bf4e0185 2c90a6ee66624e0b0166675369820210&tpList[0].imId=2c90a6ee66624e0b016667635fd302c1-2c90a6ee681677fa01684f8f20a80466;2c90a6ee681677fa01684f17bf4e0185-2c90a6ee681677fa01684f9720610487;2c90a6ee66624e0b0166675369820210-2c90a6ee681677fa01684f98947d0495&reportNum=2&custVo.clientVo.id=2c98d84f6b69be60016b69c519a6003f&sampTypeName=µÿœ¬ÀÆ µÿ±ÌÀÆ …˙≤˙∑œÀÆ …˙ªÓ∑œÀÆ&tpList[0].pointCode=&custVo.custAddress=…œ∫£◊‘”…√≥“◊ ‘—È«¯»È…Ω¬∑227∫≈&remark=&source=Õ‚≤…&custVo.wtTel=&standNames=&taskType=»’≥£ºÏ≤‚&id=&custVo.custTel=/&custVo.attribute=ÀΩ”–∆Û“µ&tpList[0].pointName=1&custVo.custName=…œ∫£µ√Ìµºº ı”–œﬁπ´Àæ∫œ∑ ∞Ï ¬¥¶2&custVo.product=∑ƒ÷Ø∆∑º”π§ ∆˚≥µº”π§π§“’…Ë±∏ π§≈©“µ”√À‹¡œ÷∆∆∑&custVo.customerVo.id=&cyName=&custVo.custUser=∑˚¿⁄&custVo.wtEmail=&saveRequest=&reportWay=◊‘»°&userName=≤‚ ‘’Àªß&userId=2c90a6ee6a2b7945016a2e0869d801a7&custVo.wtZip=&custVo.wtUser=&custVo.wtAddress=&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&finishDate=2019-07-11&pj=∑Ò&custVo.wtName=&sampTypeId=2c90a6ee681677fa0168170395f20048 2c90a6ee681677fa01681703f45b004b 2c90a6ee681677fa016817041ee9004d 2c90a6ee681677fa0168170482260050&fb=∑Ò&sampType=ª∑æ≥&cyDate=&tpList[0].sort=1&custVo.industry=ªØœÀ÷ØŒÔ»æ’˚æ´º”π§ &standIds=&tpList[0].itemNames=¡˜¡ø ø…¬À≤–‘¸ »´—Œ¡ø
+2019-07-06 09:16:31,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-06 09:16:31,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562375791504&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-06 09:16:32,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-06 09:16:32,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562375792814&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-06 09:16:34,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bc4c2dc016bc4daa1f9000a
+2019-07-06 09:16:42,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Samp,id=297e0fb36bc4c2dc016bc4daa1f9000a&reportNo=2019012&cyDate=&cyEndDate=&cyId=&cyName=&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee6a07ab5d016a0cd5979a0637&carList[0].name=±º≥€&cyStandNames=&cyStandIds=&tpList[0].id=297e0fb36bc4c2dc016bc4daa1fa000b&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&tpList[0].pc=1&tpList[0].pcUnit=¥Œ/ÃÏ&apId=2c90a6ee6a2b7945016a2e0869d801a7&apName=≤‚ ‘’Àªß&apDate=2019-07-06 09:16:34&apMsg=
+2019-07-06 09:16:42,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bc4c2dc016bc4daa1f9000a
+2019-07-06 09:16:45,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Samp,id=297e0fb36bc4c2dc016bc4daa1f9000a&reportNo=2019012&cyDate=2019-07-06&cyEndDate=&cyId=&cyName=&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee6a07ab5d016a0cd5979a0637&carList[0].name=±º≥€&cyStandNames=&cyStandIds=&tpList[0].id=297e0fb36bc4c2dc016bc4daa1fa000b&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&tpList[0].pc=1&tpList[0].pcUnit=¥Œ/ÃÏ&sampList[0].sort=1&sampList[0].id=297e0fb36bc4c2dc016bc4dace1b0013&sampList[0].p=1&sampList[0].sampCode=H2019012-D1-1&sampList[0].itemNames=¡˜¡ø&sampList[0].itemIds=2c90a6ee66624e0b016667635fd302c1&sampList[1].sort=2&sampList[1].id=297e0fb36bc4c2dc016bc4dace350015&sampList[1].p=1&sampList[1].sampCode=H2019012-D1-1&sampList[1].itemNames=ø…¬À≤–‘¸&sampList[1].itemIds=2c90a6ee681677fa01684f17bf4e0185&sampList[2].sort=3&sampList[2].id=297e0fb36bc4c2dc016bc4dace3d0017&sampList[2].p=1&sampList[2].sampCode=H2019012-D1-1&sampList[2].itemNames=»´—Œ¡ø&sampList[2].itemIds=2c90a6ee66624e0b0166675369820210&apId=2c90a6ee6a2b7945016a2e0869d801a7&apName=≤‚ ‘’Àªß&apDate=2019-07-06 09:16:42&apMsg=
+2019-07-06 09:16:45,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bc4c2dc016bc4daa1f9000a
+2019-07-06 09:16:50,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Samp,id=297e0fb36bc4c2dc016bc4daa1f9000a&reportNo=2019012&cyDate=2019-07-06&cyEndDate=2019-07-07&cyId=&cyName=&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee6a07ab5d016a0cd5979a0637&carList[0].name=±º≥€&cyStandNames=&cyStandIds=&tpList[0].id=297e0fb36bc4c2dc016bc4daa1fa000b&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&tpList[0].pc=1&tpList[0].pcUnit=¥Œ/ÃÏ&sampList[0].sort=1&sampList[0].id=297e0fb36bc4c2dc016bc4dace1b0013&sampList[0].p=1&sampList[0].sampCode=H2019012-D1-1&sampList[0].itemNames=¡˜¡ø&sampList[0].itemIds=2c90a6ee66624e0b016667635fd302c1&sampList[1].sort=2&sampList[1].id=297e0fb36bc4c2dc016bc4dace350015&sampList[1].p=1&sampList[1].sampCode=H2019012-D1-1&sampList[1].itemNames=ø…¬À≤–‘¸&sampList[1].itemIds=2c90a6ee681677fa01684f17bf4e0185&sampList[2].sort=3&sampList[2].id=297e0fb36bc4c2dc016bc4dace3d0017&sampList[2].p=1&sampList[2].sampCode=H2019012-D1-1&sampList[2].itemNames=»´—Œ¡ø&sampList[2].itemIds=2c90a6ee66624e0b0166675369820210&apId=2c90a6ee6a2b7945016a2e0869d801a7&apName=≤‚ ‘’Àªß&apDate=2019-07-06 09:16:45&apMsg=
+2019-07-06 09:16:50,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bc4c2dc016bc4daa1f9000a
+2019-07-06 09:17:11,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,act,ids=2c90a6ee66624e0b016667635fd302c1 2c90a6ee681677fa01684f17bf4e0185 2c90a6ee66624e0b0166675369820210&id=2c90a6ee66624e0b016667635fd302c1
+2019-07-06 09:17:12,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData4Select,ids=2c90a6ee66624e0b016667635fd302c1 2c90a6ee681677fa01684f17bf4e0185 2c90a6ee66624e0b0166675369820210&_search=true&nd=1562375832182&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-06 09:40:27,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562377227241&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-06 09:40:31,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-06 09:40:31,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-06 09:40:31,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-06 09:40:31,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal,
+2019-07-06 09:40:31,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562377231837
+2019-07-06 09:40:32,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listDate,selectdate=2019-07
+2019-07-06 09:40:32,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajaxGetList,
+2019-07-06 09:40:47,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-06 09:40:47,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562377247987&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-06 09:40:49,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bb56510016bb56bf4a70044
+2019-07-06 09:40:51,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&itemList[0].result=∫œ∏Ò&testManId=2c90a6ee6a2b7945016a2e0869d801a7&appName=&methodName=GB 11903-89ÀÆ÷  …´∂»µƒ≤‚∂®&methodId=2c90a6ee681677fa01684f9121f1046e&itemList[0].id=297e0fb36bb56510016bb56bf4b30045&taskVo.id=297e0fb36bb56510016bb56969050004&wd=&itemId=2c90a6ee66624e0b01666759dfe00260&sd=&itemName=…´∂»&unit=∂»&appId=&ids=&itemList[0].trVo.sampVo.sampCode=H2019009-D1-1&testMsg=&limitLine=&testTime=&testEndTime=&id=297e0fb36bb56510016bb56bf4a70044&itemList[0].trVo.id=297e0fb36bb56510016bb56bf4b90046&itemList[0].trVo.value=&unComp=&testMan=≤‚ ‘’Àªß
+2019-07-06 09:40:51,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,editBz,taskItemId=297e0fb36bb56510016bb56bf4a70044&itemId=2c90a6ee66624e0b01666759dfe00260
+2019-07-06 13:44:21,0:0:0:0:0:0:0:1, ,¥Úø™œµÕ≥  , 

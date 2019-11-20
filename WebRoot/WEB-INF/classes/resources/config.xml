@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<description>系统参数文件</description>
+	<server>
+		<base>D:\javaEE\workingset\Demi_ZH\WebRoot\</base><!--系统根路径-->
+		<host>http://116.62.212.62:8086/</host>
+		<title>V-LIMS 2016</title><!-- title-->
+		<name>安徽省中环检测有限公司</name><!-- name -->
+		<subName>检验检测信息管理系统</subName><!-- subName -->
+		<logo>static/img/logo.png</logo><!-- logo -->
+	</server>
+	<service>
+		<project>
+			<qq1>2630461812</qq1><!-- 客服QQ1-->
+			<qq2>1901588846</qq2><!-- 客服QQ1-->
+			<tel1>029-88852143</tel1><!-- 客服电话1-->
+			<tel2>029-88852143</tel2><!-- 客服电话2-->
+		</project>
+		<support>
+			<logo>/static/vlims/images/crlogo_s.png</logo><!-- logo -->
+			<require>浏览器建议火狐，谷歌，IE9.0以上 ；分辨率1366×768以上</require><!-- 推荐信息 -->
+			<name>得淼科技</name><!-- 技术支持 -->
+			<copy>© 2009-2049 </copy><!--copy -->
+			<tel>021-50835869</tel><!-- 电话 -->
+			<url>http://116.62.212.62</url><!-- 网址-->
+		</support>
+	</service>
+	<msg>
+		<mail>
+			<isSend>true</isSend><!--是否发送邮件 -->
+			<host>smtp.exmail.qq.com</host><!--协议-->
+			<fromMail>kuochengjiance@sxkctest.com</fromMail><!--发件箱-->
+			<pwd>Kc81299808</pwd><!--发件箱密码-->
+			<port>465</port><!--port-->
+			<auth>true</auth><!--auth-->
+		</mail>
+		<sms>
+			<isSend>false</isSend><!--是否发送短信-->
+			<sn>SDK-WSS-010-07888</sn><!--账号-->
+			<pwd>b5ea9@f1</pwd><!--密码-->
+			<sign>【LIMS】</sign><!--签名-->
+		</sms>
+	</msg>
+	<ip>
+		<isiplimit>false</isiplimit><!-- 是否开启IP限制 -->
+		<whitelist>127.0.0.1</whitelist><!-- 白名单 -->
+		<blacklist></blacklist><!-- 黑名单 -->
+		<ipSection></ipSection><!-- IP区段  10.10.1.00-10.10.255.255-->
+	</ip>
+	<logFile>
+		<path>D:\javaEE\workingset\Demi_ZH\log</path><!--日志存储位置-->
+		<isMulti>true</isMulti><!--是否多线程记录-->
+		<isRecord>true</isRecord><!--是否记录日志-->
+	</logFile>
+	<project>
+		<baseDir>D:\javaEE\workingset\Demi_ZH\src</baseDir><!--代码生成位置-->
+		<basePackage>cn.demi.zk</basePackage><!--跟包-->
+	</project>
+	<upload>
+		<path>static\upload\</path>
+		<qlt>
+			<ns>static\upload\qlt\ns</ns><!-- 文件上传路径 -->
+			<gs>static\upload\qlt\gs</gs><!-- 文件上传路径 -->
+			<jd>static\upload\qlt\jd</jd><!-- 文件上传路径 -->
+			<kz>static\upload\qlt\kz</kz><!-- 文件上传路径 -->
+			<yf>static\upload\qlt\yf</yf><!-- 文件上传路径 -->
+		</qlt>
+		<export>
+			<template>static\export\template</template><!-- 导出模板文件存放位置 -->
+			<temp>static\export\temp</temp><!-- 导出临时存放位置 -->
+		</export>
+		<import>
+			<template>static\import\template</template><!-- 导入模板文件存放位置 -->
+			<temp>static\import\temp</temp><!-- 导入临时存放位置 -->
+		</import>
+		<css>
+			<sample>static\upload\sample</sample><!-- report文件存储路径 -->
+			<account>static\upload\account</account><!-- 对账单文件存储路径 -->
+		</css>
+		<sys>
+			<sign>static\upload\sign</sign><!-- 账户电子签名 -->
+			<avatar>static\upload\avatar</avatar><!-- 个性头像 -->
+			<im><!-- 即时通讯 -->
+				<img>static\upload\im\img</img><!-- 上传图片 -->
+				<file>static\upload\im\file</file><!-- 上传文件 -->
+			</im>
+			<questions>static\upload\questions</questions><!-- 常见问题上传文件-->
+		</sys>
+		<cus>
+			<contract>static\upload\contract</contract><!-- 文件上传路径 -->
+		</cus>
+		<cont>
+			<draft>static\upload\draft</draft><!-- 文件上传路径 -->
+			<affirm>static\upload\affirm</affirm><!-- 文件上传路径 -->
+		</cont>
+		<doc>
+			<document>static\upload\document</document><!-- 文件上传路径 -->
+		</doc>
+		<std>
+			<mstandard>static\upload\mstandard</mstandard><!-- 上传方法标准附件 -->
+			<pstandard>static\upload\pstandard</pstandard><!-- 上传评价标准附件 -->
+			<source>static\upload\source</source><!-- 上传原始记录-->
+			<sampSource>static\upload\samp_source</sampSource><!-- 上传原始记录-->
+			<method>static\upload\method</method><!-- 上传原始记录-->
+		</std>
+		<equip>
+			<check>static\upload\equip\check</check><!-- 考核复查文件-->
+			<report>static\upload\equip\report</report><!-- 技术报告 -->
+			<record>static\upload\equip\record</record><!-- 履历文件-->
+			<expert>static\upload\equip\expert</expert><!--重复性试验文件-->
+			<assess>static\upload\equip\assess</assess><!-- 考核文件-->
+			<rep>static\upload\equip\rep</rep><!-- 更换申报文件-->
+			<stop>static\upload\equip\stop</stop><!-- 封存（或撤销）申报文件-->
+		</equip>
+		<samp>
+			<task>static\upload\task</task><!-- 上传原始记录-->
+			<report>
+				<rpt>static\upload\rpt</rpt><!-- 存放报表路径  -->
+				<report>static\upload\report</report><!-- 存放报告路径  -->
+				<temp>static\upload\report\temp</temp><!-- 存放报告路径  -->
+			</report>
+		</samp>
+		<accept>xls,doc,docx,xlsx,zip,war,txt,pdf,jpg,png,jpeg,gif,sql,pdf</accept><!-- 允许上传的文件列表 -->
+	</upload>
+	<samp>
+		<task>
+			<finishDate>7</finishDate><!-- 检测任务要求完成日期期限-->
+		</task>
+		<item>
+			<compDate>4</compDate><!-- 检测项目要求完成日期期限 -->
+		</item>
+		<warnDate>
+			<dayColor1>red</dayColor1><!-- 报告超期预警 已超期显示为红色-->
+			<dayColor2>yellow</dayColor2><!-- 报告超期预警 未超期距离超期天数小于设定值-->
+			<day>1</day><!-- 报告超期预警 距离完成日期多少天进行提醒-->
+		</warnDate>
+		<register>
+			<comday>20</comday><!-- 检测项目要求完成日期 -->
+		</register>
+	</samp>
+	<standard>
+		<day>30</day><!-- 标准品有效天数 -->
+	</standard>
+</config>

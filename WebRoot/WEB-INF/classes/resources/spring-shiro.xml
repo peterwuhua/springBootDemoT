@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="      
+          http://www.springframework.org/schema/beans      
+          http://www.springframework.org/schema/beans/spring-beans-3.0.xsd      
+          http://www.springframework.org/schema/tx      
+          http://www.springframework.org/schema/tx/spring-tx-3.0.xsd     
+          http://www.springframework.org/schema/context      
+          http://www.springframework.org/schema/context/spring-context-3.0.xsd      
+          http://www.springframework.org/schema/aop      
+          http://www.springframework.org/schema/aop/spring-aop-3.0.xsd">
+	<bean id="shiroFilter" class="org.apache.shiro.spring.web.ShiroFilterFactoryBean">
+		<property name="securityManager" ref="securityManager" />
+		<property name="loginUrl" value="/login.do" />
+		<property name="successUrl" value="/main.do" />
+		<property name="unauthorizedUrl" value="/unauthorized.do" />
+		<property name="filterChainDefinitions">
+			<value>
+				 /login.do = anon
+				 /logout.do* = anon
+				 /app_web/**= anon 
+				  <!--/** = authc
+				  /** = perms -->
+			</value>
+		</property>
+	</bean>
+	<!-- shiroAuthRealm -->
+	<bean id="shiroAuthRealm" class="cn.core.framework.shiro.AuthRealm">
+		<property name="authorizationCacheName" value="shiroAuthorizationCache" />
+	</bean>
+	<!-- shiroCasRealm 
+	<bean id="shiroCasRealm" class="cn.core.framework.shiro.CasRealm"></bean>-->
+	<!-- rememberMeCookie -->
+	<bean id="rememberMeCookie" class="org.apache.shiro.web.servlet.SimpleCookie">  
+	    <constructor-arg value="rememberMe"/>  
+	    <property name="httpOnly" value="true"/>  
+	    <property name="maxAge" value="259200"/><!-- 3天 60*60*24*3 -->  
+	</bean>
+	<!-- shiroCacheManager -->
+	<bean id="shiroCacheManager" class="org.apache.shiro.cache.ehcache.EhCacheManager">
+		<property name="cacheManager" ref="ehcache"/>
+	</bean>
+	<!-- rememberMeManager -->
+	<bean id="rememberMeManager" class="org.apache.shiro.web.mgt.CookieRememberMeManager">
+		 <property name="cipherKey"
+                  value="#{T(org.apache.shiro.codec.Base64).decode('9FvVhtFLUs0KnA3Kprsdyg==')}"/>
+        <property name="cookie" ref="rememberMeCookie"/>
+    </bean>
+	<!-- securityManager -->
+	<bean id="securityManager" class="org.apache.shiro.web.mgt.DefaultWebSecurityManager">
+		<property name="realm" ref="shiroAuthRealm" /><!-- shiro -->
+		<!-- <property name="realm" ref="shiroCasRealm" />cas -->
+		<property name="cacheManager" ref="shiroCacheManager"/>
+		<property name="rememberMeManager" ref="rememberMeManager"/>
+	</bean>
+</beans>
+
+
+

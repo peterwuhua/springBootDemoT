@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" 
+	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	   xmlns:aop="http://www.springframework.org/schema/aop" 
+	   xmlns:tx="http://www.springframework.org/schema/tx" 
+	   xmlns:context="http://www.springframework.org/schema/context" 
+	   xsi:schemaLocation="
+          http://www.springframework.org/schema/beans      
+          http://www.springframework.org/schema/beans/spring-beans-3.0.xsd      
+          http://www.springframework.org/schema/tx      
+          http://www.springframework.org/schema/tx/spring-tx-3.0.xsd     
+          http://www.springframework.org/schema/context      
+          http://www.springframework.org/schema/context/spring-context-3.0.xsd      
+          http://www.springframework.org/schema/aop      
+          http://www.springframework.org/schema/aop/spring-aop-3.0.xsd">
+    
+	<!-- 类进行扫描，完成Bean创建和自动依赖注入的功能 -->
+	<context:component-scan base-package="cn.**.dao.**,cn.**.service.**"/>
+	<!-- 配置资源文件 -->
+	<bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="locations">
+			 <list>
+		         <value>classpath:resources/log4j.properties</value>
+		         <value>classpath:resources/jdbc.properties</value>
+		        <!--  <value>classpath:redis.properties</value>-->
+		     </list>
+		</property>
+	</bean>
+	
+	<!-- <bean id="accountFilter" class="cn.core.framework.filter.CasLoginFilter">
+	    <property name="accountService">
+	        <ref bean="accountService"></ref>
+	    </property>
+	</bean> -->
+	<bean id="accountFilter" class="cn.core.framework.filter.ShiroLoginFilter">
+	    <property name="accountService">
+	        <ref bean="accountService"></ref>
+	    </property>
+	</bean>
+	<bean id="accountService" class="cn.demi.base.system.service.impl.AccountServiceImpl"/>
+	
+	<!-- redis  config  start -->
+	 <!-- jedis 配置 -->
+   <!--  <bean id="poolConfig" class="redis.clients.jedis.JedisPoolConfig" >
+       	  最小空闲连接数
+        <property name="maxIdle" value="${redis.maxIdle}" />  
+        最大连接数
+        <property name="maxTotal" value="${redis.maxActive}" />  
+        获取连接时的最大等待毫秒数,小于零:阻塞不确定的时间,默认-1   
+        <property name="maxWaitMillis" value="${redis.maxWait}" />  
+        <property name="testOnBorrow" value="${redis.testOnBorrow}" />  
+    </bean >
+   连接redis  redis服务器中心
+    <bean id="connectionFactory"  class="org.springframework.data.redis.connection.jedis.JedisConnectionFactory" >
+          <property name="poolConfig" ref="poolConfig" />
+          <property name="port" value="${redis.port}" />
+          <property name="hostName" value="${redis.host}" />
+          <property name="password" value="${redis.password}" />
+          <property name="timeout" value="${redis.timeout}" ></property>
+          <property name="database" value="${redis.dbIndex}"/>  
+    </bean >
+    <bean id="redisTemplate" class="org.springframework.data.redis.core.RedisTemplate" >
+          <property name="connectionFactory" ref="connectionFactory" />
+          <property name="keySerializer" >
+              <bean class="org.springframework.data.redis.serializer.StringRedisSerializer" />
+          </property>
+          <property name="valueSerializer" >
+              <bean class="org.springframework.data.redis.serializer.JdkSerializationRedisSerializer" />
+          </property>
+          <property name="hashKeySerializer">  
+      		  <bean class="org.springframework.data.redis.serializer.StringRedisSerializer" />
+	      </property>  
+	      <property name="hashValueSerializer">  
+	        <bean class="org.springframework.data.redis.serializer.JdkSerializationRedisSerializer" />  
+	      </property>  
+    </bean >
+    <bean id="redisUtil" class="cn.core.framework.utils.rediscache.RedisUtil" >
+          <property name="redisTemplate" ref="redisTemplate" />
+    </bean >
+     cache配置 拦截器
+    <bean id="methodCacheInterceptor" class="cn.core.framework.utils.rediscache.MethodCacheInterceptor" >
+          <property name="redisUtil" ref="redisUtil" />注入工具类
+    </bean >
+     需要加入缓存的类或方法
+    <bean id="methodCachePointCut"  class="org.springframework.aop.support.RegexpMethodPointcutAdvisor" >
+          <property name="advice" >
+              <ref local="methodCacheInterceptor" />
+          </property>
+          <property name="patterns" >
+              <list>
+               确定正则表达式列表
+                 <value>...*DaoImpl.*</value >
+              </list>
+          </property>
+    </bean > -->
+	
+	<!-- redis  config  end -->
+</beans>
+
+
+

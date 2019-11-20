@@ -1,0 +1,746 @@
+Êìç‰ΩúÊó∂Èó¥,ip,Êìç‰Ωú‰∫∫,Êìç‰ΩúÂÜÖÂÆπ,ÂèÇÊï∞,
+2019-07-05 08:37:06,0:0:0:0:0:0:0:1, ,ÊâìÂºÄÁ≥ªÁªü  , 
+2019-07-05 08:37:08,0:0:0:0:0:0:0:1, ,¥Úø™œµÕ≥  , 
+2019-07-05 08:40:33,0:0:0:0:0:0:0:1,test1,µ«¬ºœµÕ≥  , 
+2019-07-05 08:40:33,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,
+2019-07-05 08:40:34,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,
+2019-07-05 08:40:34,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,
+2019-07-05 08:40:35,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal,
+2019-07-05 08:40:35,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562287235775
+2019-07-05 08:40:36,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listDate,selectdate=2019-07
+2019-07-05 08:40:36,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajaxGetList,
+2019-07-05 08:40:41,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-05 08:40:41,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562287241738&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 08:40:44,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bb56510016bb56bf4a70044
+2019-07-05 08:40:48,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&itemList[0].result=∫œ∏Ò&testManId=2c90a6ee6a2b7945016a2e0869d801a7&appName=&methodName=GB 11903-89ÀÆ÷  …´∂»µƒ≤‚∂®&methodId=2c90a6ee681677fa01684f9121f1046e&itemList[0].id=297e0fb36bb56510016bb56bf4b30045&taskVo.id=297e0fb36bb56510016bb56969050004&wd=&itemId=2c90a6ee66624e0b01666759dfe00260&sd=&itemName=…´∂»&unit=∂»&appId=&ids=&itemList[0].trVo.sampVo.sampCode=H2019009-D1-1&testMsg=&limitLine=&testTime=&testEndTime=&id=297e0fb36bb56510016bb56bf4a70044&itemList[0].trVo.id=297e0fb36bb56510016bb56bf4b90046&itemList[0].trVo.value=&unComp=&testMan=≤‚ ‘’Àªß
+2019-07-05 08:40:48,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,editBz,taskItemId=297e0fb36bb56510016bb56bf4a70044&itemId=2c90a6ee66624e0b01666759dfe00260
+2019-07-05 08:49:58,0:0:0:0:0:0:0:1, ,¥Úø™œµÕ≥  , 
+2019-07-05 09:14:57,0:0:0:0:0:0:0:1,test1,µ«¬ºœµÕ≥  , 
+2019-07-05 09:14:57,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,
+2019-07-05 09:14:57,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,
+2019-07-05 09:14:57,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,
+2019-07-05 09:14:58,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal,
+2019-07-05 09:14:59,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562289299001
+2019-07-05 09:14:59,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listDate,selectdate=2019-07
+2019-07-05 09:14:59,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajaxGetList,
+2019-07-05 09:15:00,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:15:00,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:15:00,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:15:01,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal3,
+2019-07-05 09:15:01,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562289301446
+2019-07-05 09:15:02,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,chartPie,
+2019-07-05 09:15:02,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,chartNum,
+2019-07-05 09:49:55,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:49:55,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:49:55,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:49:55,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal3,
+2019-07-05 09:49:55,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,chartPie,
+2019-07-05 09:49:55,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,chartNum,
+2019-07-05 09:49:56,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562291395794
+2019-07-05 09:49:57,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-05 09:49:58,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291398980&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:50:39,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,sampType=ª∑æ≥
+2019-07-05 09:50:40,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajax4Json,
+2019-07-05 09:50:40,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajax4FullJson,
+2019-07-05 09:50:40,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajaxCodeContent,code=cus-sshy
+2019-07-05 09:50:43,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291443641&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:51:03,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-05 09:51:03,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291463715&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:51:09,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-05 09:51:10,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291470457&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:51:41,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-05 09:51:42,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291502098&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:51:54,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-05 09:51:55,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291515118&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:51:56,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291516501&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:53:47,192.168.1.48, ,¥Úø™œµÕ≥  , 
+2019-07-05 09:53:48,192.168.1.48, ,¥Úø™œµÕ≥  , 
+2019-07-05 09:53:54,192.168.1.48,test1,µ«¬ºœµÕ≥  , 
+2019-07-05 09:53:54,192.168.1.48,≤‚ ‘’Àªß,main,
+2019-07-05 09:53:54,192.168.1.48,≤‚ ‘’Àªß,top,
+2019-07-05 09:53:54,192.168.1.48,≤‚ ‘’Àªß,left,
+2019-07-05 09:53:55,192.168.1.48,≤‚ ‘’Àªß,portal,
+2019-07-05 09:53:56,192.168.1.48,≤‚ ‘’Àªß,listFriend,_=1562291636685
+2019-07-05 09:53:56,192.168.1.48,≤‚ ‘’Àªß,listDate,selectdate=2019-07
+2019-07-05 09:53:56,192.168.1.48,≤‚ ‘’Àªß,ajaxGetList,
+2019-07-05 09:53:57,192.168.1.48,≤‚ ‘’Àªß,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:53:57,192.168.1.48,≤‚ ‘’Àªß,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:53:57,192.168.1.48,≤‚ ‘’Àªß,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:53:57,192.168.1.48,≤‚ ‘’Àªß,portal3,
+2019-07-05 09:53:57,192.168.1.48,≤‚ ‘’Àªß,listFriend,_=1562291639087
+2019-07-05 09:53:58,192.168.1.48,≤‚ ‘’Àªß,chartPie,
+2019-07-05 09:53:58,192.168.1.48,≤‚ ‘’Àªß,chartNum,
+2019-07-05 09:53:59,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 09:54:00,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291642149&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:54:03,192.168.1.48,≤‚ ‘’Àªß,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:54:03,192.168.1.48,≤‚ ‘’Àªß,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:54:03,192.168.1.48,≤‚ ‘’Àªß,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 09:54:03,192.168.1.48,≤‚ ‘’Àªß,portal3,
+2019-07-05 09:54:03,192.168.1.48,≤‚ ‘’Àªß,chartNum,
+2019-07-05 09:54:03,192.168.1.48,≤‚ ‘’Àªß,chartPie,
+2019-07-05 09:54:03,192.168.1.48,≤‚ ‘’Àªß,listFriend,_=1562291644792
+2019-07-05 09:54:04,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 09:54:05,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291646587&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:54:26,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,logout,
+2019-07-05 09:54:30,0:0:0:0:0:0:0:1,suadmin,µ«¬ºœµÕ≥  , 
+2019-07-05 09:54:30,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,
+2019-07-05 09:54:30,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,
+2019-07-05 09:54:30,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,
+2019-07-05 09:54:31,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal,
+2019-07-05 09:54:31,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562291671074
+2019-07-05 09:54:31,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 09:54:31,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 09:54:33,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 09:54:36,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881a25607f885015608027a0b0001
+2019-07-05 09:54:36,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881a25607f885015608027a0b0001
+2019-07-05 09:54:36,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881a25607f885015608027a0b0001
+2019-07-05 09:54:36,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal1,
+2019-07-05 09:54:36,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562291676711
+2019-07-05 09:54:37,0:0:0:0:0:0:0:1,π‹¿Ì‘±,showJsonTree,
+2019-07-05 09:54:39,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 09:54:39,0:0:0:0:0:0:0:1,π‹¿Ì‘±,treeData,
+2019-07-05 09:54:39,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291679733&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 09:54:42,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291682344&rows=20&page=1&sidx=sort&sord=asc&orgId=402880e86518af78016518c533a00003
+2019-07-05 09:54:42,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291682869&rows=20&page=1&sidx=sort&sord=asc&orgId=402880e665c720b80165c76bb8fc000f
+2019-07-05 09:54:43,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291683536&rows=20&page=1&sidx=sort&sord=asc&orgId=402880e86518af78016518c533a00003
+2019-07-05 09:54:43,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291683952&rows=20&page=1&sidx=sort&sord=asc&orgId=4028ab1968261d4901682664de430362
+2019-07-05 09:54:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291684368&rows=20&page=1&sidx=sort&sord=asc&orgId=4028ab1968261d4901682664a0ec0361
+2019-07-05 09:54:47,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291687060&rows=20&page=1&sidx=sort&sord=asc&orgId=402880e665c720b80165c76d30940010
+2019-07-05 09:54:47,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291687734&rows=20&page=1&sidx=sort&sord=asc&orgId=402880e8650cd63901650cf5340f000d
+2019-07-05 09:54:48,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291688227&rows=20&page=1&sidx=sort&sord=asc&orgId=402880e8650cd63901650cf5340f000d
+2019-07-05 09:54:48,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291688659&rows=20&page=1&sidx=sort&sord=asc&orgId=4028ab1968261d4901682665ab740366
+2019-07-05 09:54:49,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291689178&rows=20&page=1&sidx=sort&sord=asc&orgId=4028ab1968261d49016826657eee0365
+2019-07-05 09:54:49,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291689782&rows=20&page=1&sidx=sort&sord=asc&orgId=4028ab1968261d4901682665184b0363
+2019-07-05 09:54:50,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291690480&rows=20&page=1&sidx=sort&sord=asc&orgId=4028ab1968261d49016826657eee0365
+2019-07-05 09:55:28,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=4028807a5b569450015b5699f7a40000
+2019-07-05 09:55:28,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=4028807a5b569450015b5699f7a40000
+2019-07-05 09:55:28,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=4028807a5b569450015b5699f7a40000
+2019-07-05 09:55:29,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal4,
+2019-07-05 09:55:29,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562291729387
+2019-07-05 09:55:31,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 09:55:31,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562291731622&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 09:55:43,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 09:55:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 09:55:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 09:55:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal,
+2019-07-05 09:55:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562291744273
+2019-07-05 09:55:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 09:55:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 09:58:47,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 09:58:48,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291929493&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 09:59:21,192.168.1.48,≤‚ ‘’Àªß,edit,sampType=ª∑æ≥
+2019-07-05 09:59:22,192.168.1.48,≤‚ ‘’Àªß,ajax4Json,
+2019-07-05 09:59:22,192.168.1.48,≤‚ ‘’Àªß,ajax4FullJson,
+2019-07-05 09:59:22,192.168.1.48,≤‚ ‘’Àªß,ajaxCodeContent,code=cus-sshy
+2019-07-05 09:59:34,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562291975891&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:00:09,192.168.1.48,≤‚ ‘’Àªß,edit,sampType=ª∑æ≥
+2019-07-05 10:00:10,192.168.1.48,≤‚ ‘’Àªß,ajax4Json,
+2019-07-05 10:00:10,192.168.1.48,≤‚ ‘’Àªß,ajax4FullJson,
+2019-07-05 10:00:10,192.168.1.48,≤‚ ‘’Àªß,ajaxCodeContent,code=cus-sshy
+2019-07-05 10:01:12,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562292073531&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:02:32,192.168.1.48,≤‚ ‘’Àªß,edit,sampType=ª∑æ≥
+2019-07-05 10:02:32,192.168.1.48,≤‚ ‘’Àªß,ajax4Json,
+2019-07-05 10:02:32,192.168.1.48,≤‚ ‘’Àªß,ajax4FullJson,
+2019-07-05 10:02:32,192.168.1.48,≤‚ ‘’Àªß,ajaxCodeContent,code=cus-sshy
+2019-07-05 10:02:38,192.168.1.48,≤‚ ‘’Àªß,act,ids=&name=ª∑æ≥
+2019-07-05 10:02:39,192.168.1.48,≤‚ ‘’Àªß,treeData4NoCheck,name=ª∑æ≥
+2019-07-05 10:02:43,192.168.1.48,≤‚ ‘’Àªß,listData,ids=2c90a6ee681677fa0168170395f20048 2c90a6ee681677fa01681703f45b004b
+2019-07-05 10:02:56,192.168.1.48,≤‚ ‘’Àªß,add4Data,isCommit=1&jj=∑Ò&date=2019-07-05 10:02:32&reportNum=2&custVo.clientVo.id=2c98d84f6b693a3c016b6981eeda00da&sampTypeName=µÿœ¬ÀÆ µÿ±ÌÀÆ&custVo.custAddress=…œ∫£◊‘”…√≥“◊ ‘—È«¯»È…Ω¬∑227∫≈&remark=&source=Õ‚≤…&custVo.wtTel=&standNames=&taskType=»’≥£ºÏ≤‚&id=&custVo.custTel=/&custVo.attribute=ÀΩ”–∆Û“µ&custVo.custName=…œ∫£µ√Ìµºº ı”–œﬁπ´Àæ&custVo.product=∑ƒ÷Ø∆∑º”π§ ∆˚≥µº”π§π§“’…Ë±∏ π§≈©“µ”√À‹¡œ÷∆∆∑&custVo.customerVo.id=&cyName=&custVo.custUser=∑˚¿⁄&custVo.wtEmail=&saveRequest=&reportWay=◊‘»°&userName=≤‚ ‘’Àªß&userId=2c90a6ee6a2b7945016a2e0869d801a7&custVo.wtZip=&custVo.wtUser=&custVo.wtAddress=&finishDate=2019-07-10&pj=∑Ò&custVo.wtName=&sampTypeId=2c90a6ee681677fa0168170395f20048 2c90a6ee681677fa01681703f45b004b&fb=∑Ò&sampType=ª∑æ≥&cyDate=&custVo.industry=ªØœÀ÷ØŒÔ»æ’˚æ´º”π§ &standIds=
+2019-07-05 10:02:57,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:02:57,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562292178831&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:02:58,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562292180063&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:03:00,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562292181728&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:03:01,192.168.1.48,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:03:08,192.168.1.48,≤‚ ‘’Àªß,act,ids=2c90a6ee69cc24790169d7efb36b0942 &id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:03:08,192.168.1.48,≤‚ ‘’Àªß,list4Select,_search=true&nd=1562292189977&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 10:07:27,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:07:27,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562292448691&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:08:11,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562292492748&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:08:11,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562292493321&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:10:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 10:10:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 10:10:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 10:10:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal,
+2019-07-05 10:10:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562292600514
+2019-07-05 10:10:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 10:10:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 10:10:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 10:10:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 10:10:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 10:10:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal3,
+2019-07-05 10:10:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562292602807
+2019-07-05 10:10:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-05 10:10:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-05 10:10:10,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:10:11,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562292611214&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:10:40,0:0:0:0:0:0:0:1,π‹¿Ì‘±,edit,ids=2c98d84f6b69f583016b6a7984f10188
+2019-07-05 10:10:47,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562292647407&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:10:53,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:10:53,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562292653690&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:10:54,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562292654925&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:13:51,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:13:51,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562292831778&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:13:53,0:0:0:0:0:0:0:1,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:14:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,act,ids=2c90a6ee69cc24790169d7efb36b0942 &id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:14:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,list4Select,_search=true&nd=1562292846715&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 10:14:08,0:0:0:0:0:0:0:1,π‹¿Ì‘±,act,ids=2c90a6ee6a97b324016a9a74553300be
+2019-07-05 10:14:09,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listData,carId=2c90a6ee6a97b324016a9a74553300be&_search=true&nd=1562292849362&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 10:14:35,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:14:36,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562292876124&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:14:36,0:0:0:0:0:0:0:1,π‹¿Ì‘±,edit,sampType=ª∑æ≥
+2019-07-05 10:14:37,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajax4Json,
+2019-07-05 10:14:37,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajax4FullJson,
+2019-07-05 10:14:37,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxCodeContent,code=cus-sshy
+2019-07-05 10:14:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562292883999&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:16:01,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=4028818e582395db0158239c55fc0000
+2019-07-05 10:16:01,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=4028818e582395db0158239c55fc0000
+2019-07-05 10:16:01,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=4028818e582395db0158239c55fc0000
+2019-07-05 10:16:01,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal5,
+2019-07-05 10:16:01,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562292961459
+2019-07-05 10:16:01,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-05 10:16:01,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-05 10:16:03,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:16:04,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=false&nd=1562292964336&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 10:19:57,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:19:57,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=false&nd=1562293197602&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 10:19:59,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=false&nd=1562293199798&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 10:22:55,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:22:56,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,startDate=2019-07-05&endDate=2019-07-05&_search=false&nd=1562293376621&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 10:22:58,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,startDate=2019-07-05&endDate=2019-07-05&_search=false&nd=1562293378053&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 10:22:58,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=false&nd=1562293378969&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 10:23:15,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage4Query,
+2019-07-05 10:23:15,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData4Query,_search=false&nd=1562293395987&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 10:23:20,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,startDate=2019-07-05&endDate=2019-07-05&_search=false&nd=1562293400553&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 10:23:22,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData4Query,_search=false&nd=1562293402222&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 10:25:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 10:25:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 10:25:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 10:25:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal,
+2019-07-05 10:25:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562293512690
+2019-07-05 10:25:13,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 10:25:13,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 10:25:17,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:25:18,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562293518347&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:25:21,0:0:0:0:0:0:0:1,π‹¿Ì‘±,checkTime,
+2019-07-05 10:25:24,0:0:0:0:0:0:0:1,π‹¿Ì‘±,editCfg,
+2019-07-05 10:25:26,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:25:26,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562293526827&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:25:28,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562293528441&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:25:31,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:25:31,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562293531769&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:04,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:26:04,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293566212&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:04,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:26:05,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293566761&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:05,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:26:05,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293567312&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:06,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:26:06,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293568094&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:06,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:26:07,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293568728&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:12,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293573726&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:13,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293575421&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:16,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:26:16,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293577679&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:18,192.168.1.48,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:26:18,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293579608&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:26:58,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=4028807a5b569450015b5699f7a40000
+2019-07-05 10:26:58,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=4028807a5b569450015b5699f7a40000
+2019-07-05 10:26:58,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=4028807a5b569450015b5699f7a40000
+2019-07-05 10:26:59,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal4,
+2019-07-05 10:26:59,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562293619234
+2019-07-05 10:27:03,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:27:03,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562293623359&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:27:42,0:0:0:0:0:0:0:1,π‹¿Ì‘±,inPage,
+2019-07-05 10:27:42,0:0:0:0:0:0:0:1,π‹¿Ì‘±,inData,_search=true&nd=1562293662759&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:27:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,inDepot,
+2019-07-05 10:27:48,0:0:0:0:0:0:0:1,π‹¿Ì‘±,inData,_search=true&nd=1562293668679&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:28:13,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293694526&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:28:14,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293695763&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:28:16,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293698355&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:28:17,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293698843&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:28:18,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293700033&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:28:19,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293701116&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:28:24,192.168.1.48,≤‚ ‘’Àªß,edit,ids=2c98d84f6b69a6e1016b69b2f6a0004d
+2019-07-05 10:29:41,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562293783165&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:38:48,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294328917&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:38:50,0:0:0:0:0:0:0:1,π‹¿Ì‘±,edit,
+2019-07-05 10:38:51,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxCodeContent,code=res-grade
+2019-07-05 10:38:51,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxCodeContent,code=res-type
+2019-07-05 10:38:51,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxCodeContent,code=res-purity
+2019-07-05 10:39:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294342149&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:40:13,192.168.1.48,≤‚ ‘’Àªß,gridData,_search=true&nd=1562294414811&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:44:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 10:44:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 10:44:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 10:44:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal3,
+2019-07-05 10:44:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562294646385
+2019-07-05 10:44:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-05 10:44:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-05 10:44:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:44:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294652847&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:44:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPaged,
+2019-07-05 10:44:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridDatad,_search=true&nd=1562294654972&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:44:16,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:44:16,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294656107&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:44:17,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:44:18,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294658037&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:44:19,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:44:19,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294659735&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:44:24,0:0:0:0:0:0:0:1,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:44:41,0:0:0:0:0:0:0:1,π‹¿Ì‘±,update4Samp,id=297e0fb36bbf9b7d016bbfdec8010007&reportNo=2019010&cyDate=2019-07-05&cyEndDate=&cyId=&cyName=&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&cyStandNames=&cyStandIds=&apId=402881d8586ff08d015870374f1e0000&apName=π‹¿Ì‘±&apDate=2019-07-05 10:44:24&apMsg=
+2019-07-05 10:44:41,0:0:0:0:0:0:0:1,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:44:43,0:0:0:0:0:0:0:1,π‹¿Ì‘±,update4Samp,id=297e0fb36bbf9b7d016bbfdec8010007&reportNo=2019010&cyDate=2019-07-05&cyEndDate=2019-07-05&cyId=&cyName=&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&cyStandNames=&cyStandIds=&apId=402881d8586ff08d015870374f1e0000&apName=π‹¿Ì‘±&apDate=2019-07-05 10:44:41&apMsg=
+2019-07-05 10:44:43,0:0:0:0:0:0:0:1,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:44:45,0:0:0:0:0:0:0:1,π‹¿Ì‘±,act,ids=&orgId=402880e86518af78016518c533a00003
+2019-07-05 10:44:45,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listAccount4All,roleCode=CYRY&_search=true&nd=1562294685453&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 10:44:47,0:0:0:0:0:0:0:1,π‹¿Ì‘±,updateData,id=297e0fb36bbf9b7d016bbfdec8010007&reportNo=2019010&cyDate=2019-07-05&cyEndDate=2019-07-05&cyId=2c90a6ee6a2b7945016a2e0869d801a7&cyName=≤‚ ‘’Àªß&fzId=2c90a6ee6a2b7945016a2e0869d801a7&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&cyStandNames=&cyStandIds=&apId=402881d8586ff08d015870374f1e0000&apName=π‹¿Ì‘±&apDate=2019-07-05 10:44:43&apMsg=
+2019-07-05 10:44:47,0:0:0:0:0:0:0:1,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:44:54,0:0:0:0:0:0:0:1,π‹¿Ì‘±,updateData,isCommit=1&id=297e0fb36bbf9b7d016bbfdec8010007&reportNo=2019010&cyDate=2019-07-05&cyEndDate=2019-07-05&cyId=2c90a6ee6a2b7945016a2e0869d801a7&cyName=≤‚ ‘’Àªß&fzId=2c90a6ee6a2b7945016a2e0869d801a7&fzName=≤‚ ‘’Àªß&cyAppNames=&cyAppIds=&carList[0].id=297e0fb36bbf9b7d016bc005169c000d&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&cyStandNames=&cyStandIds=&apId=402881d8586ff08d015870374f1e0000&apName=π‹¿Ì‘±&apDate=2019-07-05 10:44:47&apMsg=
+2019-07-05 10:44:54,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294694616&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:44:58,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPaged,
+2019-07-05 10:44:58,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridDatad,_search=true&nd=1562294698415&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:45:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294702753&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:45:04,0:0:0:0:0:0:0:1,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:45:07,0:0:0:0:0:0:0:1,π‹¿Ì‘±,updateData,isCommit=1&id=297e0fb36bbf9b7d016bbfdec8010007&carList[0].id=297e0fb36bbf9b7d016bc0053246000f&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&zbId=402881d8586ff08d015870374f1e0000&zbName=π‹¿Ì‘±&zbDate=2019-07-05 10:45:04&zbMsg=
+2019-07-05 10:45:07,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294707673&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:45:09,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294709246&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:45:11,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294711644&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:45:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridDatad,_search=true&nd=1562294712286&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:45:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,show,busId=297e0fb36bbf9b7d016bbfdec8010007&busType=œ÷≥°≤…—˘
+2019-07-05 10:45:19,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridDatad,_search=true&nd=1562294719015&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:45:21,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 10:45:22,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562294722028&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:45:23,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal3,
+2019-07-05 10:45:23,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-05 10:45:23,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-05 10:45:24,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 10:45:24,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 10:45:24,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 10:45:24,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal,
+2019-07-05 10:45:24,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562294724897
+2019-07-05 10:45:25,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 10:45:25,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 10:45:26,0:0:0:0:0:0:0:1,π‹¿Ì‘±,logout,
+2019-07-05 10:45:32,0:0:0:0:0:0:0:1,test1,µ«¬ºœµÕ≥  , 
+2019-07-05 10:45:32,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,
+2019-07-05 10:45:32,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,
+2019-07-05 10:45:32,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,
+2019-07-05 10:45:32,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal,
+2019-07-05 10:45:32,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562294732911
+2019-07-05 10:45:33,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listDate,selectdate=2019-07
+2019-07-05 10:45:33,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajaxGetList,
+2019-07-05 10:45:34,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-05 10:45:34,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562294734734&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:45:36,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:45:50,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,addPoint,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:45:50,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:45:52,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,act,ids=&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥
+2019-07-05 10:45:52,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData4Im,isNow=&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥&_search=true&nd=1562294752663&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 10:45:52,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=
+2019-07-05 10:45:58,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,addPoint,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:45:58,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:46:27,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,delPoint,ids=297e0fb36bbf9b7d016bc0062b2d001b
+2019-07-05 10:46:27,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:46:42,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,act,ids=&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥
+2019-07-05 10:46:42,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData4Im,isNow=&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥&_search=true&nd=1562294802349&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 10:46:42,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=
+2019-07-05 10:46:45,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=2c90a6ee66624e0b016667635fd302c1
+2019-07-05 10:46:46,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=2c90a6ee66624e0b016667368737014e
+2019-07-05 10:46:48,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&tpList[0].itemIds=2c90a6ee66624e0b016667635fd302c1 2c90a6ee66624e0b016667368737014e&tpList[0].imId=2c90a6ee66624e0b016667635fd302c1-2c90a6ee681677fa01684f8f20a80466;2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483&cyMsg=&cyTime=2019-07-05 10:46:27&tpList[0].id=297e0fb36bbf9b7d016bc0060e270019&tpList[0].pointCode=A123456&cyUserId=2c90a6ee6a2b7945016a2e0869d801a7&tpList[0].sampTypeName=&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&cyUserName=≤‚ ‘’Àªß&files=&id=297e0fb36bbf9b7d016bbfdec8010007&tpList[0].pointName=D1&tpList[0].sort=1&tpList[0].itemNames=¡˜¡ø pH÷µ
+2019-07-05 10:46:48,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,uptPoint,id=297e0fb36bbf9b7d016bc0060e270019&itemIds=2c90a6ee66624e0b016667635fd302c1 2c90a6ee66624e0b016667368737014e&itemNames=¡˜¡ø pH÷µ&imId=2c90a6ee66624e0b016667635fd302c1-2c90a6ee681677fa01684f8f20a80466;2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483
+2019-07-05 10:46:48,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:47:05,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&tpList[0].itemIds=2c90a6ee66624e0b016667635fd302c1 2c90a6ee66624e0b016667368737014e&tpList[0].imId=2c90a6ee66624e0b016667635fd302c1-2c90a6ee681677fa01684f8f20a80466;2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483&cyMsg=&cydList[0].type=cyd_w&cyTime=2019-07-05 10:46:48&tpList[0].id=297e0fb36bbf9b7d016bc0060e270019&tpList[0].pointCode=A123456&cydList[0].cyDate=2019-07-05&cydList[0].id=297e0fb36bbf9b7d016bc006efb80025&cyUserId=2c90a6ee6a2b7945016a2e0869d801a7&tpList[0].sampTypeName=µÿœ¬ÀÆ&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&cyUserName=≤‚ ‘’Àªß&files=&id=297e0fb36bbf9b7d016bbfdec8010007&tpList[0].pointName=D1&tpList[0].sort=1&unComp=&tpList[0].itemNames=¡˜¡ø pH÷µ&cydList[0].sort=1
+2019-07-05 10:47:05,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,editCyd,id=297e0fb36bbf9b7d016bc006efb80025
+2019-07-05 10:47:12,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:47:15,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,act,ids=2c90a6ee66624e0b016667635fd302c1-2c90a6ee681677fa01684f8f20a80466;2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥
+2019-07-05 10:47:15,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData4Im,isNow=&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥&_search=true&nd=1562294835658&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 10:47:15,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=2c90a6ee66624e0b016667635fd302c1 2c90a6ee66624e0b016667368737014e
+2019-07-05 10:47:18,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&tpList[0].itemIds=2c90a6ee66624e0b016667368737014e&tpList[0].imId=2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483&cyMsg=&cydList[0].type=cyd_w&cyTime=2019-07-05 10:47:12&tpList[0].id=297e0fb36bbf9b7d016bc0060e270019&tpList[0].pointCode=A123456&cydList[0].cyDate=2019-07-05&cydList[0].id=297e0fb36bbf9b7d016bc006efb80025&cyUserId=2c90a6ee6a2b7945016a2e0869d801a7&tpList[0].sampTypeName=µÿœ¬ÀÆ&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&cyUserName=≤‚ ‘’Àªß&files=&id=297e0fb36bbf9b7d016bbfdec8010007&tpList[0].pointName=D1&tpList[0].sort=1&unComp=&tpList[0].itemNames=pH÷µ&cydList[0].sort=1
+2019-07-05 10:47:18,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,uptPoint,id=297e0fb36bbf9b7d016bc0060e270019&itemIds=2c90a6ee66624e0b016667368737014e&itemNames=pH÷µ&imId=2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483
+2019-07-05 10:47:18,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:47:24,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&tpList[0].itemIds=2c90a6ee66624e0b016667368737014e&tpList[0].imId=2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483&cyMsg=&cydList[0].type=cyd_w&cyTime=2019-07-05 10:47:18&tpList[0].id=297e0fb36bbf9b7d016bc0060e270019&tpList[0].pointCode=A123456&cydList[0].cyDate=2019-07-05&cydList[0].id=297e0fb36bbf9b7d016bc006efb80025&cyUserId=2c90a6ee6a2b7945016a2e0869d801a7&tpList[0].sampTypeName=µÿœ¬ÀÆ&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&cyUserName=≤‚ ‘’Àªß&files=&id=297e0fb36bbf9b7d016bbfdec8010007&tpList[0].pointName=D1&tpList[0].sort=1&unComp=&tpList[0].itemNames=pH÷µ&cydList[0].sort=1
+2019-07-05 10:47:24,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,editCyd,id=297e0fb36bbf9b7d016bc006efb80025
+2019-07-05 10:47:26,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:47:51,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&tpList[0].itemIds=2c90a6ee66624e0b016667368737014e&tpList[0].imId=2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483&cyMsg=&cydList[0].type=cyd_w&cyTime=2019-07-05 10:47:26&tpList[0].id=297e0fb36bbf9b7d016bc0060e270019&tpList[0].pointCode=A123456&cydList[0].cyDate=2019-07-05&cydList[0].id=297e0fb36bbf9b7d016bc006efb80025&cyUserId=2c90a6ee6a2b7945016a2e0869d801a7&tpList[0].sampTypeName=µÿœ¬ÀÆ&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&cyUserName=≤‚ ‘’Àªß&files=&id=297e0fb36bbf9b7d016bbfdec8010007&tpList[0].pointName=D1&tpList[0].sort=1&unComp=&tpList[0].itemNames=pH÷µ&cydList[0].sort=1
+2019-07-05 10:47:51,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,editCyd,id=297e0fb36bbf9b7d016bc006efb80025
+2019-07-05 10:47:55,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:47:56,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,act,ids=2c90a6ee66624e0b016667368737014e
+2019-07-05 10:47:57,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData4Select,ids=2c90a6ee66624e0b016667368737014e&_search=true&nd=1562294877172&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 10:47:59,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,addSamp,pointId=297e0fb36bbf9b7d016bc0060e270019&type=3&ids=2c90a6ee66624e0b016667368737014e
+2019-07-05 10:47:59,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:48:00,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&tpList[0].itemIds=2c90a6ee66624e0b016667368737014e&tpList[0].imId=2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483&cyMsg=&cydList[0].type=cyd_w&cyTime=2019-07-05 10:47:59&tpList[0].id=297e0fb36bbf9b7d016bc0060e270019&tpList[0].pointCode=A123456&cydList[0].cyDate=2019-07-05&cydList[0].id=297e0fb36bbf9b7d016bc006efb80025&cyUserId=2c90a6ee6a2b7945016a2e0869d801a7&tpList[0].sampTypeName=µÿœ¬ÀÆ&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&cyUserName=≤‚ ‘’Àªß&files=&id=297e0fb36bbf9b7d016bbfdec8010007&tpList[0].pointName=D1&tpList[0].sort=1&unComp=&tpList[0].itemNames=pH÷µ&cydList[0].sort=1
+2019-07-05 10:48:01,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,editCyd,id=297e0fb36bbf9b7d016bc006efb80025
+2019-07-05 10:48:13,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:52:09,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&tpList[0].itemIds=2c90a6ee66624e0b016667368737014e&tpList[0].imId=2c90a6ee66624e0b016667368737014e-2c90a6ee681677fa01684f96113d0483&cyMsg=&cydList[0].type=cyd_w&cyTime=2019-07-05 10:48:13&tpList[0].id=297e0fb36bbf9b7d016bc0060e270019&tpList[0].pointCode=A123456&cydList[0].cyDate=2019-07-05&cydList[0].id=297e0fb36bbf9b7d016bc006efb80025&cyUserId=2c90a6ee6a2b7945016a2e0869d801a7&tpList[0].sampTypeName=µÿœ¬ÀÆ&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&cyUserName=≤‚ ‘’Àªß&files=&id=297e0fb36bbf9b7d016bbfdec8010007&tpList[0].pointName=D1&tpList[0].sort=1&unComp=&tpList[0].itemNames=pH÷µ&cydList[0].sort=1
+2019-07-05 10:52:09,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,editCyd,id=297e0fb36bbf9b7d016bc006efb80025
+2019-07-05 10:52:18,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:52:19,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562295139324&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:52:21,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:52:34,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562295154515&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 10:52:37,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:52:44,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,addPoint,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:52:44,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:52:48,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,delPoint,ids=297e0fb36bbf9b7d016bc0060e270019
+2019-07-05 10:52:48,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:53:06,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,act,ids=&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥
+2019-07-05 10:53:06,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData4Im,isNow=&sampTypeIds=2c90a6ee681677fa0168170395f20048&sampType=ª∑æ≥&_search=true&nd=1562295186928&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 10:53:07,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=
+2019-07-05 10:53:08,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,list4Im,ids=2c90a6ee66624e0b016667635fd302c1
+2019-07-05 10:53:10,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&tpList[0].itemIds=2c90a6ee66624e0b016667635fd302c1&tpList[0].imId=2c90a6ee66624e0b016667635fd302c1-2c90a6ee681677fa01684f8f20a80466&cyMsg=&cyTime=2019-07-05 10:52:48&tpList[0].id=297e0fb36bbf9b7d016bc00c5cc80034&tpList[0].pointCode=A00001&cyUserId=2c90a6ee6a2b7945016a2e0869d801a7&tpList[0].sampTypeName=&tpList[0].sampTypeId=2c90a6ee681677fa0168170395f20048&cyUserName=≤‚ ‘’Àªß&files=&id=297e0fb36bbf9b7d016bbfdec8010007&tpList[0].pointName=A1&tpList[0].sort=1&unComp=&tpList[0].itemNames=¡˜¡ø
+2019-07-05 10:53:10,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,uptPoint,id=297e0fb36bbf9b7d016bc00c5cc80034&itemIds=2c90a6ee66624e0b016667635fd302c1&itemNames=¡˜¡ø&imId=2c90a6ee66624e0b016667635fd302c1-2c90a6ee681677fa01684f8f20a80466
+2019-07-05 10:53:10,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 10:53:23,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,addSamp,pointId=297e0fb36bbf9b7d016bc00c5cc80034&type=
+2019-07-05 10:53:23,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bbf9b7d016bbfdec8010007
+2019-07-05 11:01:36,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562295696763&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:02:04,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,
+2019-07-05 11:02:04,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,
+2019-07-05 11:02:04,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,
+2019-07-05 11:02:04,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal,
+2019-07-05 11:02:04,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562295724662
+2019-07-05 11:02:05,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listDate,selectdate=2019-07
+2019-07-05 11:02:05,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajaxGetList,
+2019-07-05 11:02:36,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,logout,
+2019-07-05 11:02:44,0:0:0:0:0:0:0:1,suadmin,µ«¬ºœµÕ≥  , 
+2019-07-05 11:02:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,
+2019-07-05 11:02:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,
+2019-07-05 11:02:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,
+2019-07-05 11:02:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal,
+2019-07-05 11:02:44,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562295764720
+2019-07-05 11:02:45,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 11:02:45,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 11:02:49,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 11:02:49,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 11:02:49,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 11:02:49,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal3,
+2019-07-05 11:02:49,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562295769608
+2019-07-05 11:02:50,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-05 11:02:50,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-05 11:15:11,0:0:0:0:0:0:0:1,π‹¿Ì‘±,login,
+2019-07-05 11:15:13,0:0:0:0:0:0:0:1,π‹¿Ì‘±,login,loginname=suadmin&password=111111
+2019-07-05 11:15:13,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,
+2019-07-05 11:15:13,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,
+2019-07-05 11:15:13,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,
+2019-07-05 11:15:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal,
+2019-07-05 11:15:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562296514073
+2019-07-05 11:15:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 11:15:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 11:15:46,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=4028818e582395db0158239c55fc0000
+2019-07-05 11:15:46,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=4028818e582395db0158239c55fc0000
+2019-07-05 11:15:46,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=4028818e582395db0158239c55fc0000
+2019-07-05 11:15:46,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal5,
+2019-07-05 11:15:46,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562296546342
+2019-07-05 11:15:46,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-05 11:15:46,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-05 11:16:50,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:16:50,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=false&nd=1562296610279&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 11:17:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:17:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=false&nd=1562296634491&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 11:18:40,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 11:18:40,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 11:18:40,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 11:18:40,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal3,
+2019-07-05 11:18:41,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-05 11:18:41,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-05 11:18:41,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562296720964
+2019-07-05 11:18:43,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:18:43,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296723830&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:00,0:0:0:0:0:0:0:1,π‹¿Ì‘±,login,
+2019-07-05 11:21:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,login,loginname=suadmin&password=111111
+2019-07-05 11:21:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,
+2019-07-05 11:21:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,
+2019-07-05 11:21:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,
+2019-07-05 11:21:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal,
+2019-07-05 11:21:02,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562296862847
+2019-07-05 11:21:03,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 11:21:03,0:0:0:0:0:0:0:1,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 11:21:04,0:0:0:0:0:0:0:1,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 11:21:04,0:0:0:0:0:0:0:1,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 11:21:04,0:0:0:0:0:0:0:1,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 11:21:04,0:0:0:0:0:0:0:1,π‹¿Ì‘±,portal3,
+2019-07-05 11:21:04,0:0:0:0:0:0:0:1,π‹¿Ì‘±,listFriend,_=1562296864524
+2019-07-05 11:21:05,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartPie,
+2019-07-05 11:21:05,0:0:0:0:0:0:0:1,π‹¿Ì‘±,chartNum,
+2019-07-05 11:21:05,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:06,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296866163&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:07,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:07,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296867337&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:07,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:08,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296868059&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:08,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:09,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296869244&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296872845&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:12,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:13,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296873225&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296874604&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:14,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:15,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296875075&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:15,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:15,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296875545&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:15,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:16,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296876045&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:16,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:16,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296876931&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 11:21:18,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridPage,
+2019-07-05 11:21:18,0:0:0:0:0:0:0:1,π‹¿Ì‘±,gridData,_search=true&nd=1562296878418&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:36:14,192.168.1.48, ,¥Úø™œµÕ≥  , 
+2019-07-05 13:36:15,192.168.1.48, ,¥Úø™œµÕ≥  , 
+2019-07-05 13:36:20,192.168.1.48,test1,µ«¬ºœµÕ≥  , 
+2019-07-05 13:36:20,192.168.1.48, ,¥Úø™œµÕ≥  , 
+2019-07-05 13:36:25,192.168.1.48,suadmin,µ«¬ºœµÕ≥  , 
+2019-07-05 13:36:25,192.168.1.48,π‹¿Ì‘±,main,
+2019-07-05 13:36:25,192.168.1.48,π‹¿Ì‘±,top,
+2019-07-05 13:36:25,192.168.1.48,π‹¿Ì‘±,left,
+2019-07-05 13:36:26,192.168.1.48,π‹¿Ì‘±,portal,
+2019-07-05 13:36:26,192.168.1.48,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 13:36:26,192.168.1.48,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 13:36:26,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562304987149
+2019-07-05 13:36:27,192.168.1.48,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 13:36:27,192.168.1.48,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 13:36:27,192.168.1.48,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 13:36:27,192.168.1.48,π‹¿Ì‘±,portal3,
+2019-07-05 13:36:28,192.168.1.48,π‹¿Ì‘±,chartNum,
+2019-07-05 13:36:28,192.168.1.48,π‹¿Ì‘±,chartPie,
+2019-07-05 13:36:28,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562304988949
+2019-07-05 13:36:29,192.168.1.48,π‹¿Ì‘±,main,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 13:36:29,192.168.1.48,π‹¿Ì‘±,top,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 13:36:29,192.168.1.48,π‹¿Ì‘±,left,sysId=402881945ffb950d015ffb9a729c0000
+2019-07-05 13:36:29,192.168.1.48,π‹¿Ì‘±,portal,
+2019-07-05 13:36:29,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562304990246
+2019-07-05 13:36:29,192.168.1.48,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 13:36:29,192.168.1.48,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 13:36:30,192.168.1.48,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 13:36:30,192.168.1.48,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 13:36:30,192.168.1.48,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 13:36:30,192.168.1.48,π‹¿Ì‘±,portal3,
+2019-07-05 13:36:30,192.168.1.48,π‹¿Ì‘±,chartNum,
+2019-07-05 13:36:30,192.168.1.48,π‹¿Ì‘±,chartPie,
+2019-07-05 13:36:30,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562304991616
+2019-07-05 13:36:48,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 13:36:49,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305010138&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:36:50,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 13:36:51,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305012055&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:36:51,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 13:36:51,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305012619&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:36:53,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 13:36:53,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305014286&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:36:54,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305014931&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:36:54,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305015884&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:36:55,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305016599&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:36:57,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305018128&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:36:59,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305020515&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:37:00,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305021403&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:37:00,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305021871&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:37:02,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562305023848&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 13:43:46,0:0:0:0:0:0:0:1, ,¥Úø™œµÕ≥  , 
+2019-07-05 13:43:46,0:0:0:0:0:0:0:1, ,¥Úø™œµÕ≥  , 
+2019-07-05 13:43:56,0:0:0:0:0:0:0:1,¡ıµœ,µ«¬ºœµÕ≥  , 
+2019-07-05 13:43:56,0:0:0:0:0:0:0:1, ,¥Úø™œµÕ≥  , 
+2019-07-05 14:12:29,192.168.1.48, ,¥Úø™œµÕ≥  , 
+2019-07-05 14:12:29,192.168.1.48, ,¥Úø™œµÕ≥  , 
+2019-07-05 14:12:33,192.168.1.48,suadmin,µ«¬ºœµÕ≥  , 
+2019-07-05 14:12:34,192.168.1.48,π‹¿Ì‘±,main,
+2019-07-05 14:12:34,192.168.1.48,π‹¿Ì‘±,top,
+2019-07-05 14:12:34,192.168.1.48,π‹¿Ì‘±,left,
+2019-07-05 14:12:34,192.168.1.48,π‹¿Ì‘±,portal,
+2019-07-05 14:12:35,192.168.1.48,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 14:12:35,192.168.1.48,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 14:12:35,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562307155420
+2019-07-05 14:12:35,192.168.1.48,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:12:35,192.168.1.48,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:12:35,192.168.1.48,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:12:36,192.168.1.48,π‹¿Ì‘±,portal3,
+2019-07-05 14:12:36,192.168.1.48,π‹¿Ì‘±,chartPie,
+2019-07-05 14:12:36,192.168.1.48,π‹¿Ì‘±,chartNum,
+2019-07-05 14:12:36,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562307157036
+2019-07-05 14:12:37,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:12:37,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562307158725&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:12:39,192.168.1.48,π‹¿Ì‘±,edit,sampType=ª∑æ≥
+2019-07-05 14:12:39,192.168.1.48,π‹¿Ì‘±,ajax4Json,
+2019-07-05 14:12:40,192.168.1.48,π‹¿Ì‘±,ajax4FullJson,
+2019-07-05 14:12:40,192.168.1.48,π‹¿Ì‘±,ajaxCodeContent,code=cus-sshy
+2019-07-05 14:15:22,192.168.1.48,π‹¿Ì‘±,act,ids=&name=ª∑æ≥
+2019-07-05 14:15:22,192.168.1.48,π‹¿Ì‘±,treeData4NoCheck,name=ª∑æ≥
+2019-07-05 14:20:14,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:20:15,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562307615925&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:37:45,192.168.1.48,π‹¿Ì‘±,logout,
+2019-07-05 14:42:26,192.168.1.48, ,¥Úø™œµÕ≥  , 
+2019-07-05 14:42:36,192.168.1.48,suadmin,µ«¬ºœµÕ≥  , 
+2019-07-05 14:42:36,192.168.1.48,π‹¿Ì‘±,main,
+2019-07-05 14:42:36,192.168.1.48,π‹¿Ì‘±,top,
+2019-07-05 14:42:36,192.168.1.48,π‹¿Ì‘±,left,
+2019-07-05 14:42:37,192.168.1.48,π‹¿Ì‘±,portal,
+2019-07-05 14:42:37,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562308958134
+2019-07-05 14:42:37,192.168.1.48,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 14:42:37,192.168.1.48,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 14:42:40,192.168.1.48,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:42:40,192.168.1.48,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:42:40,192.168.1.48,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:42:40,192.168.1.48,π‹¿Ì‘±,portal3,
+2019-07-05 14:42:40,192.168.1.48,π‹¿Ì‘±,chartPie,
+2019-07-05 14:42:40,192.168.1.48,π‹¿Ì‘±,chartNum,
+2019-07-05 14:42:40,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562308961351
+2019-07-05 14:42:42,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:42:42,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562308963544&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:42:44,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:42:44,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562308965638&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:42:52,192.168.1.48,π‹¿Ì‘±,edit,sampType=ª∑æ≥
+2019-07-05 14:42:53,192.168.1.48,π‹¿Ì‘±,ajax4Json,
+2019-07-05 14:42:53,192.168.1.48,π‹¿Ì‘±,ajaxCodeContent,code=cus-sshy
+2019-07-05 14:42:53,192.168.1.48,π‹¿Ì‘±,ajax4FullJson,
+2019-07-05 14:43:52,192.168.1.48,π‹¿Ì‘±,act,ids=&name=ª∑æ≥
+2019-07-05 14:43:52,192.168.1.48,π‹¿Ì‘±,treeData4NoCheck,name=ª∑æ≥
+2019-07-05 14:43:56,192.168.1.48,π‹¿Ì‘±,listData,ids=2c90a6ee681677fa016817041ee9004d 2c90a6ee681677fa0168170482260050
+2019-07-05 14:44:03,192.168.1.48,π‹¿Ì‘±,add4Data,isCommit=1&jj=∑Ò&date=2019-07-05 14:42:52&reportNum=2&custVo.clientVo.id=2c98d84f6b693a3c016b6981eeda00da&sampTypeName=…˙≤˙∑œÀÆ …˙ªÓ∑œÀÆ&custVo.custAddress=…œ∫£◊‘”…√≥“◊ ‘—È«¯»È…Ω¬∑227∫≈&remark=&source=Õ‚≤…&custVo.wtTel=&standNames=&taskType=»’≥£ºÏ≤‚&id=&custVo.custTel=/&custVo.attribute=ÀΩ”–∆Û“µ&custVo.custName=…œ∫£µ√Ìµºº ı”–œﬁπ´Àæ&custVo.product=∑ƒ÷Ø∆∑º”π§ ∆˚≥µº”π§π§“’…Ë±∏ π§≈©“µ”√À‹¡œ÷∆∆∑&custVo.customerVo.id=&cyName=&custVo.custUser=∑˚¿⁄&custVo.wtEmail=&saveRequest=&reportWay=◊‘»°&userName=π‹¿Ì‘±&userId=402881d8586ff08d015870374f1e0000&custVo.wtZip=&custVo.wtUser=&custVo.wtAddress=&finishDate=2019-07-10&pj=∑Ò&custVo.wtName=&sampTypeId=2c90a6ee681677fa016817041ee9004d 2c90a6ee681677fa0168170482260050&fb=∑Ò&sampType=ª∑æ≥&cyDate=&custVo.industry=ªØœÀ÷ØŒÔ»æ’˚æ´º”π§ &standIds=
+2019-07-05 14:44:03,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:44:03,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309044855&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:44:06,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309047500&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:44:08,192.168.1.48,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-05 14:44:41,192.168.1.48,π‹¿Ì‘±,act,ids=
+2019-07-05 14:44:42,192.168.1.48,π‹¿Ì‘±,gridData4Out,_search=true&nd=1562309083109&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 14:44:42,192.168.1.48,π‹¿Ì‘±,listData4Sels,ids=
+2019-07-05 14:44:56,192.168.1.48,π‹¿Ì‘±,update4Samp,id=297e0fb36bbf9b7d016bc0e025a7004d&reportNo=2019011&cyDate=2019-07-05&cyEndDate=&cyId=&cyName=&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&cyStandNames=&cyStandIds=&apId=402881d8586ff08d015870374f1e0000&apName=π‹¿Ì‘±&apDate=2019-07-05 14:44:08&apMsg=
+2019-07-05 14:44:56,192.168.1.48,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-05 14:44:58,192.168.1.48,π‹¿Ì‘±,update4Samp,id=297e0fb36bbf9b7d016bc0e025a7004d&reportNo=2019011&cyDate=2019-07-05&cyEndDate=2019-07-03&cyId=&cyName=&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&cyStandNames=&cyStandIds=&apId=402881d8586ff08d015870374f1e0000&apName=π‹¿Ì‘±&apDate=2019-07-05 14:44:56&apMsg=
+2019-07-05 14:44:58,192.168.1.48,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-05 14:45:01,192.168.1.48,π‹¿Ì‘±,update4Samp,id=297e0fb36bbf9b7d016bc0e025a7004d&reportNo=2019011&cyDate=2019-07-05&cyEndDate=2019-07-10&cyId=&cyName=&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&cyStandNames=&cyStandIds=&apId=402881d8586ff08d015870374f1e0000&apName=π‹¿Ì‘±&apDate=2019-07-05 14:44:58&apMsg=
+2019-07-05 14:45:01,192.168.1.48,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-05 14:45:05,192.168.1.48,π‹¿Ì‘±,act,ids=2c90a6ee69cc24790169d7efb36b0942 &id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-05 14:45:06,192.168.1.48,π‹¿Ì‘±,list4Select,_search=true&nd=1562309107088&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 14:45:24,192.168.1.48,π‹¿Ì‘±,act,ids=&orgId=402880e86518af78016518c533a00003
+2019-07-05 14:45:24,192.168.1.48,π‹¿Ì‘±,listAccount4All,roleCode=CYRY&_search=true&nd=1562309125234&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 14:45:35,192.168.1.48,π‹¿Ì‘±,updateData,id=297e0fb36bbf9b7d016bc0e025a7004d&reportNo=2019011&cyDate=2019-07-05&cyEndDate=2019-07-10&cyId=2c90a6ee6a2b7945016a2e0869d801a7&cyName=≤‚ ‘’Àªß&fzId=2c90a6ee6a2b7945016a2e0869d801a7&fzName=&cyAppNames=&cyAppIds=&carList[0].id=&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&cyStandNames=&cyStandIds=&apId=402881d8586ff08d015870374f1e0000&apName=π‹¿Ì‘±&apDate=2019-07-05 14:45:01&apMsg=
+2019-07-05 14:45:35,192.168.1.48,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-05 14:45:38,192.168.1.48,π‹¿Ì‘±,act,ids=
+2019-07-05 14:45:38,192.168.1.48,π‹¿Ì‘±,gridData4Out,_search=true&nd=1562309139218&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 14:45:38,192.168.1.48,π‹¿Ì‘±,listData4Sels,ids=
+2019-07-05 14:45:46,192.168.1.48,π‹¿Ì‘±,act,ids=
+2019-07-05 14:45:47,192.168.1.48,π‹¿Ì‘±,gridData4Sels,_search=true&nd=1562309148487&rows=-1&page=1&sidx=sort&sord=asc
+2019-07-05 14:45:47,192.168.1.48,π‹¿Ì‘±,list4Sels,ids=
+2019-07-05 14:46:02,192.168.1.48,π‹¿Ì‘±,list4Sels,ids=2c90a6ee6aa46982016aa4a200e30132
+2019-07-05 14:46:09,192.168.1.48,π‹¿Ì‘±,updateData,isCommit=1&id=297e0fb36bbf9b7d016bc0e025a7004d&reportNo=2019011&cyDate=2019-07-05&cyEndDate=2019-07-10&cyId=2c90a6ee6a2b7945016a2e0869d801a7&cyName=≤‚ ‘’Àªß&fzId=2c90a6ee6a2b7945016a2e0869d801a7&fzName=≤‚ ‘’Àªß&cyAppNames=&cyAppIds=&carList[0].id=297e0fb36bbf9b7d016bc0e18d9c0054&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&cyStandNames=π§◊˜≥°À˘ø’∆¯”–∂æŒÔ÷ ≤‚∂® ”–ª˙¬»≈©“©(GBZ/T 160.77-2004)&cyStandIds=2c90a6ee6aa46982016aa4a200e30132&apId=402881d8586ff08d015870374f1e0000&apName=π‹¿Ì‘±&apDate=2019-07-05 14:45:35&apMsg=
+2019-07-05 14:46:09,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309170483&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:46:12,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:46:12,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309173239&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:46:15,192.168.1.48,π‹¿Ì‘±,gridPaged,
+2019-07-05 14:46:15,192.168.1.48,π‹¿Ì‘±,gridDatad,_search=true&nd=1562309176491&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:46:16,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:46:16,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309177398&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:46:18,192.168.1.48,π‹¿Ì‘±,edit,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-05 14:46:41,192.168.1.48,π‹¿Ì‘±,updateData,isCommit=1&id=297e0fb36bbf9b7d016bc0e025a7004d&carList[0].id=297e0fb36bbf9b7d016bc0e211320056&carList[0].carId=2c90a6ee69cc24790169d7efb36b0942&carList[0].name=…œ∫£¥Û÷⁄&zbId=402881d8586ff08d015870374f1e0000&zbName=π‹¿Ì‘±&zbDate=2019-07-05 14:46:18&zbMsg=
+2019-07-05 14:46:41,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309202492&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:46:44,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:46:44,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309205157&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:46:45,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:46:45,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309206507&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:47:48,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309269248&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:47:49,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309270209&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:47:50,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309271168&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:03,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309284371&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:04,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309285000&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:05,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309286056&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:05,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309286528&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:06,192.168.1.48,π‹¿Ì‘±,gridPaged,
+2019-07-05 14:48:07,192.168.1.48,π‹¿Ì‘±,gridDatad,_search=true&nd=1562309287949&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:15,192.168.1.48,π‹¿Ì‘±,show,busId=297e0fb36bbf9b7d016bc0e025a7004d&busType=œ÷≥°≤…—˘
+2019-07-05 14:48:24,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309305571&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:25,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309306610&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:26,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309307735&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:27,192.168.1.48,π‹¿Ì‘±,gridDatad,_search=true&nd=1562309308265&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:48:31,192.168.1.48,π‹¿Ì‘±,show,id=297e0fb36bbf9b7d016bc0e025a7004d
+2019-07-05 14:48:38,192.168.1.48,π‹¿Ì‘±,logout,
+2019-07-05 14:48:43,192.168.1.48,≤‚ ‘’Àªß,µ«¬ºœµÕ≥  , 
+2019-07-05 14:48:49,192.168.1.48,ts,µ«¬ºœµÕ≥  , 
+2019-07-05 14:48:54,192.168.1.48,suadmin,µ«¬ºœµÕ≥  , 
+2019-07-05 14:48:54,192.168.1.48,π‹¿Ì‘±,main,
+2019-07-05 14:48:54,192.168.1.48,π‹¿Ì‘±,top,
+2019-07-05 14:48:54,192.168.1.48,π‹¿Ì‘±,left,
+2019-07-05 14:48:55,192.168.1.48,π‹¿Ì‘±,portal,
+2019-07-05 14:48:55,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562309336091
+2019-07-05 14:48:55,192.168.1.48,π‹¿Ì‘±,listDate,selectdate=2019-07
+2019-07-05 14:48:55,192.168.1.48,π‹¿Ì‘±,ajaxGetList,
+2019-07-05 14:48:59,192.168.1.48,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:48:59,192.168.1.48,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:48:59,192.168.1.48,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:48:59,192.168.1.48,π‹¿Ì‘±,portal3,
+2019-07-05 14:48:59,192.168.1.48,π‹¿Ì‘±,chartPie,
+2019-07-05 14:48:59,192.168.1.48,π‹¿Ì‘±,chartNum,
+2019-07-05 14:48:59,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562309340227
+2019-07-05 14:49:12,192.168.1.48,π‹¿Ì‘±,main,sysId=402881a25607f885015608027a0b0001
+2019-07-05 14:49:12,192.168.1.48,π‹¿Ì‘±,top,sysId=402881a25607f885015608027a0b0001
+2019-07-05 14:49:12,192.168.1.48,π‹¿Ì‘±,left,sysId=402881a25607f885015608027a0b0001
+2019-07-05 14:49:12,192.168.1.48,π‹¿Ì‘±,portal1,
+2019-07-05 14:49:12,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562309353621
+2019-07-05 14:49:12,192.168.1.48,π‹¿Ì‘±,showJsonTree,
+2019-07-05 14:49:18,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:49:18,192.168.1.48,π‹¿Ì‘±,treeData,
+2019-07-05 14:49:18,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309359736&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 14:49:25,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309366002&rows=20&page=1&sidx=sort&sord=asc&pid=0
+2019-07-05 14:49:28,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309369066&rows=20&page=1&sidx=sort&sord=asc&pid=402880e665c720b80165c76d30940010
+2019-07-05 14:49:28,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309369801&rows=20&page=1&sidx=sort&sord=asc&pid=402880e8650cd63901650cf5340f000d
+2019-07-05 14:49:29,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309370234&rows=20&page=1&sidx=sort&sord=asc&pid=4028ab1968261d4901682665ab740366
+2019-07-05 14:49:29,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309370588&rows=20&page=1&sidx=sort&sord=asc&pid=4028ab1968261d49016826657eee0365
+2019-07-05 14:49:30,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309370936&rows=20&page=1&sidx=sort&sord=asc&pid=4028ab1968261d4901682665184b0363
+2019-07-05 14:49:30,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309371344&rows=20&page=1&sidx=sort&sord=asc&pid=402880e665c720b80165c76bb8fc000f
+2019-07-05 14:49:32,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309373385&rows=20&page=1&sidx=sort&sord=asc&pid=402880e8650cd63901650cf5efd60010
+2019-07-05 14:49:32,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309373812&rows=20&page=1&sidx=sort&sord=asc&pid=4028ab1968261d490168266550090364
+2019-07-05 14:49:33,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309374186&rows=20&page=1&sidx=sort&sord=asc&pid=402880e86518af78016518c533a00003
+2019-07-05 14:49:35,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309376198&rows=20&page=1&sidx=sort&sord=asc&pid=4028ab1968261d4901682664de430362
+2019-07-05 14:49:37,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309377707&rows=20&page=1&sidx=sort&sord=asc&pid=2c90a6ee69bf474e0169c21fd6c703d1
+2019-07-05 14:49:37,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309378076&rows=20&page=1&sidx=sort&sord=asc&pid=4028ab1968261d4901682664a0ec0361
+2019-07-05 14:49:37,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309378585&rows=20&page=1&sidx=sort&sord=asc&pid=4028ab1968261d4901682664a0ec0361
+2019-07-05 14:49:41,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:49:42,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309383193&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 14:49:49,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:49:49,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309390484&rows=10&page=1&sidx=sort&sord=asc
+2019-07-05 14:49:51,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:49:52,192.168.1.48,π‹¿Ì‘±,treeData,
+2019-07-05 14:49:52,192.168.1.48,π‹¿Ì‘±,gridData,pid=001&_search=true&nd=1562309393222&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:49:53,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:49:53,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309394896&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:49:55,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:49:55,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309396463&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:49:56,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:49:57,192.168.1.48,π‹¿Ì‘±,treeData,
+2019-07-05 14:49:57,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309398207&rows=20&page=1&sidx=sort&sord=asc
+2019-07-05 14:49:59,192.168.1.48,π‹¿Ì‘±,edit,
+2019-07-05 14:50:04,192.168.1.48,π‹¿Ì‘±,main,sysId=4028807a5b569450015b5699f7a40000
+2019-07-05 14:50:04,192.168.1.48,π‹¿Ì‘±,top,sysId=4028807a5b569450015b5699f7a40000
+2019-07-05 14:50:04,192.168.1.48,π‹¿Ì‘±,left,sysId=4028807a5b569450015b5699f7a40000
+2019-07-05 14:50:04,192.168.1.48,π‹¿Ì‘±,portal4,
+2019-07-05 14:50:04,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562309405440
+2019-07-05 14:50:07,192.168.1.48,π‹¿Ì‘±,main,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:50:07,192.168.1.48,π‹¿Ì‘±,top,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:50:07,192.168.1.48,π‹¿Ì‘±,left,sysId=402881f15e755408015e755a2b4b0000
+2019-07-05 14:50:07,192.168.1.48,π‹¿Ì‘±,portal3,
+2019-07-05 14:50:07,192.168.1.48,π‹¿Ì‘±,chartPie,
+2019-07-05 14:50:07,192.168.1.48,π‹¿Ì‘±,chartNum,
+2019-07-05 14:50:07,192.168.1.48,π‹¿Ì‘±,listFriend,_=1562309408099
+2019-07-05 14:50:11,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:50:11,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309412303&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:50:12,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:50:12,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309413443&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:50:13,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:50:13,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309414413&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:50:15,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:50:15,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309416806&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 14:50:16,192.168.1.48,π‹¿Ì‘±,gridPage,
+2019-07-05 14:50:16,192.168.1.48,π‹¿Ì‘±,gridData,_search=true&nd=1562309417705&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 17:12:24,0:0:0:0:0:0:0:1,test1,µ«¬ºœµÕ≥  , 
+2019-07-05 17:12:24,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,main,
+2019-07-05 17:12:24,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,top,
+2019-07-05 17:12:24,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,left,
+2019-07-05 17:12:25,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,portal,
+2019-07-05 17:12:25,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listFriend,_=1562317945156
+2019-07-05 17:12:25,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,listDate,selectdate=2019-07
+2019-07-05 17:12:25,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,ajaxGetList,
+2019-07-05 17:12:30,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridPage,
+2019-07-05 17:12:30,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,gridData,_search=true&nd=1562317950456&rows=20&page=1&sidx=lastUpdTime&sord=desc
+2019-07-05 17:12:31,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bb56510016bb56bf4a70044
+2019-07-05 17:12:33,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&itemList[0].result=∫œ∏Ò&testManId=2c90a6ee6a2b7945016a2e0869d801a7&appName=&methodName=GB 11903-89ÀÆ÷  …´∂»µƒ≤‚∂®&methodId=2c90a6ee681677fa01684f9121f1046e&itemList[0].id=297e0fb36bb56510016bb56bf4b30045&taskVo.id=297e0fb36bb56510016bb56969050004&wd=&itemId=2c90a6ee66624e0b01666759dfe00260&sd=&itemName=…´∂»&unit=∂»&appId=&ids=&itemList[0].trVo.sampVo.sampCode=H2019009-D1-1&testMsg=&limitLine=&testTime=&testEndTime=&id=297e0fb36bb56510016bb56bf4a70044&itemList[0].trVo.id=297e0fb36bb56510016bb56bf4b90046&itemList[0].trVo.value=&unComp=&testMan=≤‚ ‘’Àªß
+2019-07-05 17:12:33,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,editBz,taskItemId=297e0fb36bb56510016bb56bf4a70044&itemId=2c90a6ee66624e0b01666759dfe00260
+2019-07-05 17:18:46,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,edit,id=297e0fb36bb56510016bb56bf4a70044
+2019-07-05 17:31:22,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,update4Data,isCommit=0&itemList[0].result=∫œ∏Ò&testManId=2c90a6ee6a2b7945016a2e0869d801a7&appName=&methodName=GB 11903-89ÀÆ÷  …´∂»µƒ≤‚∂®&methodId=2c90a6ee681677fa01684f9121f1046e&itemList[0].id=297e0fb36bb56510016bb56bf4b30045&taskVo.id=297e0fb36bb56510016bb56969050004&wd=&itemId=2c90a6ee66624e0b01666759dfe00260&sd=&itemName=…´∂»&unit=∂»&appId=&ids=&itemList[0].trVo.sampVo.sampCode=H2019009-D1-1&testMsg=&limitLine=&testTime=&testEndTime=&id=297e0fb36bb56510016bb56bf4a70044&itemList[0].trVo.id=297e0fb36bb56510016bb56bf4b90046&itemList[0].trVo.value=&unComp=&testMan=≤‚ ‘’Àªß
+2019-07-05 17:31:22,0:0:0:0:0:0:0:1,≤‚ ‘’Àªß,editBz,taskItemId=297e0fb36bb56510016bb56bf4a70044&itemId=2c90a6ee66624e0b01666759dfe00260

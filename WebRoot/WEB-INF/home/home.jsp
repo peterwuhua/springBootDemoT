@@ -1,0 +1,351 @@
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
+<%@ include file="../include/tld.jsp"%>
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>实验室运营服务云平台</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="shortcut icon" href="favicon.ico">
+<link href="${basePath}h/css/bootstrap.min.css?v=3.3.6" rel="stylesheet">
+<link href="${basePath}h/css/font-awesome.css?v=4.4.0" rel="stylesheet">
+<link href="${basePath}h/css/animate.css" rel="stylesheet">
+<link href="${basePath}h/css/style.css?v=4.1.0" rel="stylesheet">
+<link href="${basePath}h/css/plugins/toastr/toastr.min.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="${basePath}ext/layui/css/layui.css">
+</head>
+
+<body class="fixed-sidebar full-height-layout gray-bg fixed-nav ${current.theme}" style="overflow: hidden">
+	<div class="row border-bottom">
+		<jsp:include page="/top.do" />
+		<jsp:include page="sidebar.jsp" />
+	</div>
+	<!--左侧导航开始-->
+	<jsp:include page="/left.do" />
+	<!--左侧导航结束-->
+	<!--右侧部分开始-->
+	<div id="page-wrapper" class="gray-bg dashbard-1">
+		<div class="row content-tabs">
+			<button class="roll-nav roll-left J_tabLeft">
+				<i class="fa fa-backward"></i>
+			</button>
+			<nav class="page-tabs J_menuTabs">
+				<div class="page-tabs-content">
+					<a href="${basePath}${current.portal}" target="iframe0" class="active J_menuTab" data-id="${current.portal}">首页</a>
+				</div>
+			</nav>
+			<button class="roll-nav roll-right J_tabRight">
+				<i class="fa fa-forward"></i>
+			</button>
+			<div class="btn-group roll-nav roll-right">
+				<button class="dropdown J_tabClose" data-toggle="dropdown">
+					关闭操作<span class="caret"></span>
+
+				</button>
+				<ul role="menu" class="dropdown-menu dropdown-menu-right">
+					<li class="J_tabShowActive"><a>定位当前选项卡</a></li>
+					<li class="divider"></li>
+					<li class="J_tabCloseAll"><a>关闭全部选项卡</a></li>
+					<li class="J_tabCloseOther"><a>关闭其他选项卡</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row J_mainContent" id="content-main">
+			<iframe class="J_iframe" name="iframe0" width="100%" height="100%" src="${basePath}${current.portal}" frameborder="0" data-id="${current.portal}" seamless></iframe>
+		</div>
+		<div class="footer">
+			<div class="pull-left">
+				${config.service.support.copy } <a href="${config.service.support.url}" target="_blank">${config.service.support.name}</a>
+			</div>
+		</div>
+	</div>
+	<!--右侧部分结束-->
+	<!-- 全局js -->
+	<script src="${basePath}h/js/jquery.min.js?v=2.1.4"></script>
+	<script src="${basePath}h/js/bootstrap.min.js?v=3.3.6"></script>
+	<script src="${basePath}h/js/hplus.js?v=4.1.0"></script>
+	<script src="${basePath}h/js/contabs.js"></script>
+	<script src="${basePath}h/js/plugins/layer/layer.min.js"></script>
+	<script src="${basePath}h/js/plugins/metisMenu/jquery.metisMenu.js"></script>
+	<script src="${basePath}h/js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+	<script src="${basePath}ext/layui/layui.js"></script>
+	<script src="${basePath}h/js/plugins/toastr/toastr.min.js"></script>
+	<script src="${basePath}ext/js/common.js" type="text/javascript"></script>
+	<script>
+var socketFlag = false;
+layui.use('layim', function(layim){
+	var autoReplay = [
+	  '您好，我现在有事不在，一会再和您联系。'
+	];
+	var socket = null;
+	if('WebSocket' in window){//判断浏览器是否支持webscoket
+		var accountId = '${current.accountId}';
+		try{
+		   socket = new WebSocket('ws://'+window.location.host+'/websocket/'+accountId+'/webscoket.do');
+		   socket.onopen = function(evt){
+			   socketFlag = true;
+		  };
+		}catch(e){
+			
+		}
+	 //连接成功时触发
+	  socket.onmessage = function(event) {
+		var data = event.data;
+		var res = JSON.parse(data);
+		var type = res.type;
+		if("friend"==type){
+			onMessage(res);
+		}else if("status"==type){//修改好友在线状态
+			layim.setFriendStatus(res.id,res.status); 
+		}
+	  };
+	  socket.onerror = function(evt){
+	  	socketFlag = false;
+	  	socket.close();
+	  };
+	  socket.onclose = function(){
+		  socketFlag = false;
+	  };
+	  //监听窗口关闭时关闭连接
+	  window.onbeforeunload = function(){
+		  socket.close();
+	  };
+	}else{
+		layer.confirm('浏览器无法使用即时通讯,确认继续使用吗?', {icon:3, title:'系统提示'},function(index){
+			layer.close(index);
+		},function(index){
+			location.href="${basePath}logout.do";
+		});
+	}
+  	function onMessage(res){
+  		var system = res.system;
+		var obj = {};
+		if(system){
+			obj = {
+				system: system
+				,username: "系统消息"
+				,avatar: res.avatar
+				,id: res.id
+				,type: res.type
+				,content: autoReplay[Math.random()*1|0],
+		    }
+		}else{
+			obj = {
+				username: res.username
+				,avatar: res.avatar
+				,id: res.id
+				,type: res.type
+				,content: res.content
+		    }
+		}
+		layim.getMessage(obj);
+  	};
+  
+  //基础配置
+  layim.config({
+    //初始化接口
+    init: {
+      url: '<%=basePath%>/im/conversation/listFriend.do',
+      data: {}
+    }
+
+    //简约模式（不显示主面板）
+    //,brief: true
+
+    //查看群员接口
+    ,members: {
+      url: '<%=basePath%>/im/group/member/listMember.do'
+      ,data: {}
+    }
+    
+    ,uploadImage: {
+      url: '${basePath}im/conversation/uploadImage.do' //（返回的数据格式见下文）
+    }
+
+    ,uploadFile: {
+      url: '${basePath}im/conversation/uploadFile.do' //（返回的数据格式见下文）
+    }
+    //,msgbox: layui.cache.dir + 'css/modules/layim/html/msgbox.html' //消息盒子页面地址，若不开启，剔除该项即可
+    //,skin: ['aaa.jpg'] //新增皮肤
+    //,isfriend: false //是否开启好友
+    ,isgroup: false //是否开启群组
+    ,min: true //是否始终最小化主面板（默认false）
+    ,chatLog: '${basePath}im/messageContent/chatLogPage.do' //聊天记录地址
+    //,find: './demo/find.html'//查找页面
+    ,copyright: true //是否授权
+    //,title:'我的LayIM'//主面板最小化显示的名称
+  });//基础配置end
+
+   
+  //layim.setChatMin();
+
+  //监听发送消息
+  layim.on('sendMessage', function(data){
+    var To = data.to;//收信人的信息
+    var mine = data.mine;//发送人的信息
+    if(!socketFlag){
+    	try{
+	    	socket = new WebSocket('ws://'+window.location.host+'/websocket/'+accountId+'/webscoket.do');
+	    	socket.onopen = function(evt){
+				   socketFlag = true;
+				  // alert(socketFlag);
+			    //console.log("连接成功");
+	    	}   
+    	}catch(e){
+    		 socketFlag = false;
+    	}
+    	if(!socketFlag){
+    		layim.getMessage({
+				system: true
+				,username: "系统消息"
+				,avatar: To.avatar
+				,id: To.id
+				,type: To.type
+				,content: autoReplay[Math.random()*1|0],
+		    });
+    		return false;
+    	}
+    }
+    socket.send(JSON.stringify({
+  	  type: To.type //随便定义，用于在服务端区分消息类型
+  	  ,data: data
+ 	}));
+    //console.log(data);
+    
+    //发送消息倒Socket服务
+    //var socket = new WebSocket('ws://115.29.193.48:8088');
+    /* socket.send({
+      type: 'chatMessage'
+      ,content: data.mine.content
+    }); */
+    
+    /* socket.send(JSON.stringify({
+    	  type: '' //随便定义，用于在服务端区分消息类型
+    	  ,data: {}
+   	}));  */
+    //演示自动回复
+   /* setTimeout(function(){
+      var obj = {};
+      if(To.type === 'group'){
+        obj = {
+          username: '模拟群员'+(Math.random()*100|0)
+          ,avatar: layui.cache.dir + 'images/face/'+ (Math.random()*72|0) + '.gif'
+          ,id: To.id
+          ,type: To.type
+          ,content: autoReplay[Math.random()*9|0]
+        }
+      } else {
+        obj = {
+          username: To.name
+          ,avatar: To.avatar
+          ,id: To.id
+          ,type: To.type
+          ,content: autoReplay[Math.random()*9|0]
+          ,timestamp: new Date().getTime()
+        }
+      }
+      layim.getMessage(obj);
+      console.log(obj);
+    }, 1000);  */
+  });
+
+  //监听在线状态的切换事件
+  layim.on('online', function(data){
+    socket.send(JSON.stringify({
+    	  type: "status" //随便定义，用于在服务端区分消息类型
+    	  ,data: data
+   	}));
+  });
+  //监听签名的更改
+  layim.on('sign', function(value){
+		socket.send(JSON.stringify({
+	    	  type: "sign" //随便定义，用于在服务端区分消息类型
+	    	  ,data: value
+		}));
+	});     
+  //监听收到的聊天消息
+  
+/*   socket.on('chatMessage', function (res) {
+	  alert("1");
+    layim.getMessage({
+      username: res.name
+      ,avatar: res.avatar
+      ,id: res.id
+      ,type: res.type
+      ,content: res.content
+    });
+  }); */
+  
+
+  //layim建立就绪
+  layim.on('ready', function(res){
+  
+    //接受消息（如果检测到该socket）
+    /* setTimeout(function(){
+      //在好友列表
+      layim.getMessage({
+        username: "张登峰"
+        ,avatar: "http://tp1.sinaimg.cn/1571889140/180/40030060651/1"
+        ,id: "100001"
+        ,type: "friend"
+        ,content: "嗨，你好！你有一条数据被退回了："+ new Date().getTime()
+        ,timestamp: new Date().getTime()
+      });
+    }, 1000);*/
+  });
+
+  //监听查看群员
+  layim.on('members', function(data){
+     console.log(data);
+  });
+  
+  //监听聊天窗口的切换
+  layim.on('chatChange', function(data){
+  //  console.log(data);
+  });
+
+});
+/**
+ * 即时通讯修改下载文件
+ */
+$(".down").on("click",dropdown);
+function dropdown(){
+	$(".profile-element").removeClass("open");
+	$(".dropdown-toggle").attr("aria-expanded",false);
+}
+/**
+ * 即时通讯下载文件
+ */
+ function downFile(path,name){
+	 var url="${basePath}im/conversation/download.do?filePath="+path+"&trueName="+name;
+		 if (typeof (downFile.iframe) == "undefined"){  
+	         var iframe = document.createElement("iframe");  
+	         downFile.iframe = iframe;  
+	         document.body.appendChild(downFile.iframe);  
+	     }  
+	     downFile.iframe.src = url;  
+	     downFile.iframe.style.display = "none";
+}
+</script>
+<script type="text/javascript">
+	$(function(){
+		$('.navbar-top-links>li').click(function(){
+			$('.navbar-top-links>li.active').removeClass('active');
+			$(this).addClass('active');
+		});
+		$('.navbar-top-links>li a').click(function(){
+			$('.navbar-top-links>li.active').removeClass('active');
+			$(this).parent().addClass('active');
+		});
+	})
+</script>
+<script type="text/javascript">
+//pageMap 不可删除
+   var pageMap = new HashMap();
+</script>
+</body>
+
+</html>
